@@ -268,7 +268,7 @@ class DrawingApp:
 
         # Grammar buttons
         grammar_elements = [
-            "true", "false", "0", "1", "?",
+            "true", "false", "0", "1", "?", "(", ")",
             "exists", "for all",
             "subsumed by", "<=", "cons", "SR",
             "or", "and", "implies",
