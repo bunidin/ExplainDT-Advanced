@@ -25,6 +25,8 @@ To run the GUI for the REPL interpreter simply run the following command on the 
 python3 GUI_byBuni.py
 ```
 
+![Screenshot](readme_images/image.png)
+
 ---
 
 The rest of our work is ran in the same way as in the ReadMe [here](https://github.com/DiegoEmilio01/A-Symbolic-Language-for-Interpreting-Decision-Trees).
