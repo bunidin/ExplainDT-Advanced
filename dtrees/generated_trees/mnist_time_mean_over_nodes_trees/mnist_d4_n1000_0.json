@@ -1,0 +1,8587 @@
+{
+  "feature_names": [
+    "pixel (0, 0)",
+    "pixel (0, 1)",
+    "pixel (0, 2)",
+    "pixel (0, 3)",
+    "pixel (0, 4)",
+    "pixel (0, 5)",
+    "pixel (0, 6)",
+    "pixel (0, 7)",
+    "pixel (0, 8)",
+    "pixel (0, 9)",
+    "pixel (0, 10)",
+    "pixel (0, 11)",
+    "pixel (0, 12)",
+    "pixel (0, 13)",
+    "pixel (0, 14)",
+    "pixel (0, 15)",
+    "pixel (0, 16)",
+    "pixel (0, 17)",
+    "pixel (0, 18)",
+    "pixel (0, 19)",
+    "pixel (0, 20)",
+    "pixel (0, 21)",
+    "pixel (0, 22)",
+    "pixel (0, 23)",
+    "pixel (0, 24)",
+    "pixel (0, 25)",
+    "pixel (0, 26)",
+    "pixel (0, 27)",
+    "pixel (1, 0)",
+    "pixel (1, 1)",
+    "pixel (1, 2)",
+    "pixel (1, 3)",
+    "pixel (1, 4)",
+    "pixel (1, 5)",
+    "pixel (1, 6)",
+    "pixel (1, 7)",
+    "pixel (1, 8)",
+    "pixel (1, 9)",
+    "pixel (1, 10)",
+    "pixel (1, 11)",
+    "pixel (1, 12)",
+    "pixel (1, 13)",
+    "pixel (1, 14)",
+    "pixel (1, 15)",
+    "pixel (1, 16)",
+    "pixel (1, 17)",
+    "pixel (1, 18)",
+    "pixel (1, 19)",
+    "pixel (1, 20)",
+    "pixel (1, 21)",
+    "pixel (1, 22)",
+    "pixel (1, 23)",
+    "pixel (1, 24)",
+    "pixel (1, 25)",
+    "pixel (1, 26)",
+    "pixel (1, 27)",
+    "pixel (2, 0)",
+    "pixel (2, 1)",
+    "pixel (2, 2)",
+    "pixel (2, 3)",
+    "pixel (2, 4)",
+    "pixel (2, 5)",
+    "pixel (2, 6)",
+    "pixel (2, 7)",
+    "pixel (2, 8)",
+    "pixel (2, 9)",
+    "pixel (2, 10)",
+    "pixel (2, 11)",
+    "pixel (2, 12)",
+    "pixel (2, 13)",
+    "pixel (2, 14)",
+    "pixel (2, 15)",
+    "pixel (2, 16)",
+    "pixel (2, 17)",
+    "pixel (2, 18)",
+    "pixel (2, 19)",
+    "pixel (2, 20)",
+    "pixel (2, 21)",
+    "pixel (2, 22)",
+    "pixel (2, 23)",
+    "pixel (2, 24)",
+    "pixel (2, 25)",
+    "pixel (2, 26)",
+    "pixel (2, 27)",
+    "pixel (3, 0)",
+    "pixel (3, 1)",
+    "pixel (3, 2)",
+    "pixel (3, 3)",
+    "pixel (3, 4)",
+    "pixel (3, 5)",
+    "pixel (3, 6)",
+    "pixel (3, 7)",
+    "pixel (3, 8)",
+    "pixel (3, 9)",
+    "pixel (3, 10)",
+    "pixel (3, 11)",
+    "pixel (3, 12)",
+    "pixel (3, 13)",
+    "pixel (3, 14)",
+    "pixel (3, 15)",
+    "pixel (3, 16)",
+    "pixel (3, 17)",
+    "pixel (3, 18)",
+    "pixel (3, 19)",
+    "pixel (3, 20)",
+    "pixel (3, 21)",
+    "pixel (3, 22)",
+    "pixel (3, 23)",
+    "pixel (3, 24)",
+    "pixel (3, 25)",
+    "pixel (3, 26)",
+    "pixel (3, 27)",
+    "pixel (4, 0)",
+    "pixel (4, 1)",
+    "pixel (4, 2)",
+    "pixel (4, 3)",
+    "pixel (4, 4)",
+    "pixel (4, 5)",
+    "pixel (4, 6)",
+    "pixel (4, 7)",
+    "pixel (4, 8)",
+    "pixel (4, 9)",
+    "pixel (4, 10)",
+    "pixel (4, 11)",
+    "pixel (4, 12)",
+    "pixel (4, 13)",
+    "pixel (4, 14)",
+    "pixel (4, 15)",
+    "pixel (4, 16)",
+    "pixel (4, 17)",
+    "pixel (4, 18)",
+    "pixel (4, 19)",
+    "pixel (4, 20)",
+    "pixel (4, 21)",
+    "pixel (4, 22)",
+    "pixel (4, 23)",
+    "pixel (4, 24)",
+    "pixel (4, 25)",
+    "pixel (4, 26)",
+    "pixel (4, 27)",
+    "pixel (5, 0)",
+    "pixel (5, 1)",
+    "pixel (5, 2)",
+    "pixel (5, 3)",
+    "pixel (5, 4)",
+    "pixel (5, 5)",
+    "pixel (5, 6)",
+    "pixel (5, 7)",
+    "pixel (5, 8)",
+    "pixel (5, 9)",
+    "pixel (5, 10)",
+    "pixel (5, 11)",
+    "pixel (5, 12)",
+    "pixel (5, 13)",
+    "pixel (5, 14)",
+    "pixel (5, 15)",
+    "pixel (5, 16)",
+    "pixel (5, 17)",
+    "pixel (5, 18)",
+    "pixel (5, 19)",
+    "pixel (5, 20)",
+    "pixel (5, 21)",
+    "pixel (5, 22)",
+    "pixel (5, 23)",
+    "pixel (5, 24)",
+    "pixel (5, 25)",
+    "pixel (5, 26)",
+    "pixel (5, 27)",
+    "pixel (6, 0)",
+    "pixel (6, 1)",
+    "pixel (6, 2)",
+    "pixel (6, 3)",
+    "pixel (6, 4)",
+    "pixel (6, 5)",
+    "pixel (6, 6)",
+    "pixel (6, 7)",
+    "pixel (6, 8)",
+    "pixel (6, 9)",
+    "pixel (6, 10)",
+    "pixel (6, 11)",
+    "pixel (6, 12)",
+    "pixel (6, 13)",
+    "pixel (6, 14)",
+    "pixel (6, 15)",
+    "pixel (6, 16)",
+    "pixel (6, 17)",
+    "pixel (6, 18)",
+    "pixel (6, 19)",
+    "pixel (6, 20)",
+    "pixel (6, 21)",
+    "pixel (6, 22)",
+    "pixel (6, 23)",
+    "pixel (6, 24)",
+    "pixel (6, 25)",
+    "pixel (6, 26)",
+    "pixel (6, 27)",
+    "pixel (7, 0)",
+    "pixel (7, 1)",
+    "pixel (7, 2)",
+    "pixel (7, 3)",
+    "pixel (7, 4)",
+    "pixel (7, 5)",
+    "pixel (7, 6)",
+    "pixel (7, 7)",
+    "pixel (7, 8)",
+    "pixel (7, 9)",
+    "pixel (7, 10)",
+    "pixel (7, 11)",
+    "pixel (7, 12)",
+    "pixel (7, 13)",
+    "pixel (7, 14)",
+    "pixel (7, 15)",
+    "pixel (7, 16)",
+    "pixel (7, 17)",
+    "pixel (7, 18)",
+    "pixel (7, 19)",
+    "pixel (7, 20)",
+    "pixel (7, 21)",
+    "pixel (7, 22)",
+    "pixel (7, 23)",
+    "pixel (7, 24)",
+    "pixel (7, 25)",
+    "pixel (7, 26)",
+    "pixel (7, 27)",
+    "pixel (8, 0)",
+    "pixel (8, 1)",
+    "pixel (8, 2)",
+    "pixel (8, 3)",
+    "pixel (8, 4)",
+    "pixel (8, 5)",
+    "pixel (8, 6)",
+    "pixel (8, 7)",
+    "pixel (8, 8)",
+    "pixel (8, 9)",
+    "pixel (8, 10)",
+    "pixel (8, 11)",
+    "pixel (8, 12)",
+    "pixel (8, 13)",
+    "pixel (8, 14)",
+    "pixel (8, 15)",
+    "pixel (8, 16)",
+    "pixel (8, 17)",
+    "pixel (8, 18)",
+    "pixel (8, 19)",
+    "pixel (8, 20)",
+    "pixel (8, 21)",
+    "pixel (8, 22)",
+    "pixel (8, 23)",
+    "pixel (8, 24)",
+    "pixel (8, 25)",
+    "pixel (8, 26)",
+    "pixel (8, 27)",
+    "pixel (9, 0)",
+    "pixel (9, 1)",
+    "pixel (9, 2)",
+    "pixel (9, 3)",
+    "pixel (9, 4)",
+    "pixel (9, 5)",
+    "pixel (9, 6)",
+    "pixel (9, 7)",
+    "pixel (9, 8)",
+    "pixel (9, 9)",
+    "pixel (9, 10)",
+    "pixel (9, 11)",
+    "pixel (9, 12)",
+    "pixel (9, 13)",
+    "pixel (9, 14)",
+    "pixel (9, 15)",
+    "pixel (9, 16)",
+    "pixel (9, 17)",
+    "pixel (9, 18)",
+    "pixel (9, 19)",
+    "pixel (9, 20)",
+    "pixel (9, 21)",
+    "pixel (9, 22)",
+    "pixel (9, 23)",
+    "pixel (9, 24)",
+    "pixel (9, 25)",
+    "pixel (9, 26)",
+    "pixel (9, 27)",
+    "pixel (10, 0)",
+    "pixel (10, 1)",
+    "pixel (10, 2)",
+    "pixel (10, 3)",
+    "pixel (10, 4)",
+    "pixel (10, 5)",
+    "pixel (10, 6)",
+    "pixel (10, 7)",
+    "pixel (10, 8)",
+    "pixel (10, 9)",
+    "pixel (10, 10)",
+    "pixel (10, 11)",
+    "pixel (10, 12)",
+    "pixel (10, 13)",
+    "pixel (10, 14)",
+    "pixel (10, 15)",
+    "pixel (10, 16)",
+    "pixel (10, 17)",
+    "pixel (10, 18)",
+    "pixel (10, 19)",
+    "pixel (10, 20)",
+    "pixel (10, 21)",
+    "pixel (10, 22)",
+    "pixel (10, 23)",
+    "pixel (10, 24)",
+    "pixel (10, 25)",
+    "pixel (10, 26)",
+    "pixel (10, 27)",
+    "pixel (11, 0)",
+    "pixel (11, 1)",
+    "pixel (11, 2)",
+    "pixel (11, 3)",
+    "pixel (11, 4)",
+    "pixel (11, 5)",
+    "pixel (11, 6)",
+    "pixel (11, 7)",
+    "pixel (11, 8)",
+    "pixel (11, 9)",
+    "pixel (11, 10)",
+    "pixel (11, 11)",
+    "pixel (11, 12)",
+    "pixel (11, 13)",
+    "pixel (11, 14)",
+    "pixel (11, 15)",
+    "pixel (11, 16)",
+    "pixel (11, 17)",
+    "pixel (11, 18)",
+    "pixel (11, 19)",
+    "pixel (11, 20)",
+    "pixel (11, 21)",
+    "pixel (11, 22)",
+    "pixel (11, 23)",
+    "pixel (11, 24)",
+    "pixel (11, 25)",
+    "pixel (11, 26)",
+    "pixel (11, 27)",
+    "pixel (12, 0)",
+    "pixel (12, 1)",
+    "pixel (12, 2)",
+    "pixel (12, 3)",
+    "pixel (12, 4)",
+    "pixel (12, 5)",
+    "pixel (12, 6)",
+    "pixel (12, 7)",
+    "pixel (12, 8)",
+    "pixel (12, 9)",
+    "pixel (12, 10)",
+    "pixel (12, 11)",
+    "pixel (12, 12)",
+    "pixel (12, 13)",
+    "pixel (12, 14)",
+    "pixel (12, 15)",
+    "pixel (12, 16)",
+    "pixel (12, 17)",
+    "pixel (12, 18)",
+    "pixel (12, 19)",
+    "pixel (12, 20)",
+    "pixel (12, 21)",
+    "pixel (12, 22)",
+    "pixel (12, 23)",
+    "pixel (12, 24)",
+    "pixel (12, 25)",
+    "pixel (12, 26)",
+    "pixel (12, 27)",
+    "pixel (13, 0)",
+    "pixel (13, 1)",
+    "pixel (13, 2)",
+    "pixel (13, 3)",
+    "pixel (13, 4)",
+    "pixel (13, 5)",
+    "pixel (13, 6)",
+    "pixel (13, 7)",
+    "pixel (13, 8)",
+    "pixel (13, 9)",
+    "pixel (13, 10)",
+    "pixel (13, 11)",
+    "pixel (13, 12)",
+    "pixel (13, 13)",
+    "pixel (13, 14)",
+    "pixel (13, 15)",
+    "pixel (13, 16)",
+    "pixel (13, 17)",
+    "pixel (13, 18)",
+    "pixel (13, 19)",
+    "pixel (13, 20)",
+    "pixel (13, 21)",
+    "pixel (13, 22)",
+    "pixel (13, 23)",
+    "pixel (13, 24)",
+    "pixel (13, 25)",
+    "pixel (13, 26)",
+    "pixel (13, 27)",
+    "pixel (14, 0)",
+    "pixel (14, 1)",
+    "pixel (14, 2)",
+    "pixel (14, 3)",
+    "pixel (14, 4)",
+    "pixel (14, 5)",
+    "pixel (14, 6)",
+    "pixel (14, 7)",
+    "pixel (14, 8)",
+    "pixel (14, 9)",
+    "pixel (14, 10)",
+    "pixel (14, 11)",
+    "pixel (14, 12)",
+    "pixel (14, 13)",
+    "pixel (14, 14)",
+    "pixel (14, 15)",
+    "pixel (14, 16)",
+    "pixel (14, 17)",
+    "pixel (14, 18)",
+    "pixel (14, 19)",
+    "pixel (14, 20)",
+    "pixel (14, 21)",
+    "pixel (14, 22)",
+    "pixel (14, 23)",
+    "pixel (14, 24)",
+    "pixel (14, 25)",
+    "pixel (14, 26)",
+    "pixel (14, 27)",
+    "pixel (15, 0)",
+    "pixel (15, 1)",
+    "pixel (15, 2)",
+    "pixel (15, 3)",
+    "pixel (15, 4)",
+    "pixel (15, 5)",
+    "pixel (15, 6)",
+    "pixel (15, 7)",
+    "pixel (15, 8)",
+    "pixel (15, 9)",
+    "pixel (15, 10)",
+    "pixel (15, 11)",
+    "pixel (15, 12)",
+    "pixel (15, 13)",
+    "pixel (15, 14)",
+    "pixel (15, 15)",
+    "pixel (15, 16)",
+    "pixel (15, 17)",
+    "pixel (15, 18)",
+    "pixel (15, 19)",
+    "pixel (15, 20)",
+    "pixel (15, 21)",
+    "pixel (15, 22)",
+    "pixel (15, 23)",
+    "pixel (15, 24)",
+    "pixel (15, 25)",
+    "pixel (15, 26)",
+    "pixel (15, 27)",
+    "pixel (16, 0)",
+    "pixel (16, 1)",
+    "pixel (16, 2)",
+    "pixel (16, 3)",
+    "pixel (16, 4)",
+    "pixel (16, 5)",
+    "pixel (16, 6)",
+    "pixel (16, 7)",
+    "pixel (16, 8)",
+    "pixel (16, 9)",
+    "pixel (16, 10)",
+    "pixel (16, 11)",
+    "pixel (16, 12)",
+    "pixel (16, 13)",
+    "pixel (16, 14)",
+    "pixel (16, 15)",
+    "pixel (16, 16)",
+    "pixel (16, 17)",
+    "pixel (16, 18)",
+    "pixel (16, 19)",
+    "pixel (16, 20)",
+    "pixel (16, 21)",
+    "pixel (16, 22)",
+    "pixel (16, 23)",
+    "pixel (16, 24)",
+    "pixel (16, 25)",
+    "pixel (16, 26)",
+    "pixel (16, 27)",
+    "pixel (17, 0)",
+    "pixel (17, 1)",
+    "pixel (17, 2)",
+    "pixel (17, 3)",
+    "pixel (17, 4)",
+    "pixel (17, 5)",
+    "pixel (17, 6)",
+    "pixel (17, 7)",
+    "pixel (17, 8)",
+    "pixel (17, 9)",
+    "pixel (17, 10)",
+    "pixel (17, 11)",
+    "pixel (17, 12)",
+    "pixel (17, 13)",
+    "pixel (17, 14)",
+    "pixel (17, 15)",
+    "pixel (17, 16)",
+    "pixel (17, 17)",
+    "pixel (17, 18)",
+    "pixel (17, 19)",
+    "pixel (17, 20)",
+    "pixel (17, 21)",
+    "pixel (17, 22)",
+    "pixel (17, 23)",
+    "pixel (17, 24)",
+    "pixel (17, 25)",
+    "pixel (17, 26)",
+    "pixel (17, 27)",
+    "pixel (18, 0)",
+    "pixel (18, 1)",
+    "pixel (18, 2)",
+    "pixel (18, 3)",
+    "pixel (18, 4)",
+    "pixel (18, 5)",
+    "pixel (18, 6)",
+    "pixel (18, 7)",
+    "pixel (18, 8)",
+    "pixel (18, 9)",
+    "pixel (18, 10)",
+    "pixel (18, 11)",
+    "pixel (18, 12)",
+    "pixel (18, 13)",
+    "pixel (18, 14)",
+    "pixel (18, 15)",
+    "pixel (18, 16)",
+    "pixel (18, 17)",
+    "pixel (18, 18)",
+    "pixel (18, 19)",
+    "pixel (18, 20)",
+    "pixel (18, 21)",
+    "pixel (18, 22)",
+    "pixel (18, 23)",
+    "pixel (18, 24)",
+    "pixel (18, 25)",
+    "pixel (18, 26)",
+    "pixel (18, 27)",
+    "pixel (19, 0)",
+    "pixel (19, 1)",
+    "pixel (19, 2)",
+    "pixel (19, 3)",
+    "pixel (19, 4)",
+    "pixel (19, 5)",
+    "pixel (19, 6)",
+    "pixel (19, 7)",
+    "pixel (19, 8)",
+    "pixel (19, 9)",
+    "pixel (19, 10)",
+    "pixel (19, 11)",
+    "pixel (19, 12)",
+    "pixel (19, 13)",
+    "pixel (19, 14)",
+    "pixel (19, 15)",
+    "pixel (19, 16)",
+    "pixel (19, 17)",
+    "pixel (19, 18)",
+    "pixel (19, 19)",
+    "pixel (19, 20)",
+    "pixel (19, 21)",
+    "pixel (19, 22)",
+    "pixel (19, 23)",
+    "pixel (19, 24)",
+    "pixel (19, 25)",
+    "pixel (19, 26)",
+    "pixel (19, 27)",
+    "pixel (20, 0)",
+    "pixel (20, 1)",
+    "pixel (20, 2)",
+    "pixel (20, 3)",
+    "pixel (20, 4)",
+    "pixel (20, 5)",
+    "pixel (20, 6)",
+    "pixel (20, 7)",
+    "pixel (20, 8)",
+    "pixel (20, 9)",
+    "pixel (20, 10)",
+    "pixel (20, 11)",
+    "pixel (20, 12)",
+    "pixel (20, 13)",
+    "pixel (20, 14)",
+    "pixel (20, 15)",
+    "pixel (20, 16)",
+    "pixel (20, 17)",
+    "pixel (20, 18)",
+    "pixel (20, 19)",
+    "pixel (20, 20)",
+    "pixel (20, 21)",
+    "pixel (20, 22)",
+    "pixel (20, 23)",
+    "pixel (20, 24)",
+    "pixel (20, 25)",
+    "pixel (20, 26)",
+    "pixel (20, 27)",
+    "pixel (21, 0)",
+    "pixel (21, 1)",
+    "pixel (21, 2)",
+    "pixel (21, 3)",
+    "pixel (21, 4)",
+    "pixel (21, 5)",
+    "pixel (21, 6)",
+    "pixel (21, 7)",
+    "pixel (21, 8)",
+    "pixel (21, 9)",
+    "pixel (21, 10)",
+    "pixel (21, 11)",
+    "pixel (21, 12)",
+    "pixel (21, 13)",
+    "pixel (21, 14)",
+    "pixel (21, 15)",
+    "pixel (21, 16)",
+    "pixel (21, 17)",
+    "pixel (21, 18)",
+    "pixel (21, 19)",
+    "pixel (21, 20)",
+    "pixel (21, 21)",
+    "pixel (21, 22)",
+    "pixel (21, 23)",
+    "pixel (21, 24)",
+    "pixel (21, 25)",
+    "pixel (21, 26)",
+    "pixel (21, 27)",
+    "pixel (22, 0)",
+    "pixel (22, 1)",
+    "pixel (22, 2)",
+    "pixel (22, 3)",
+    "pixel (22, 4)",
+    "pixel (22, 5)",
+    "pixel (22, 6)",
+    "pixel (22, 7)",
+    "pixel (22, 8)",
+    "pixel (22, 9)",
+    "pixel (22, 10)",
+    "pixel (22, 11)",
+    "pixel (22, 12)",
+    "pixel (22, 13)",
+    "pixel (22, 14)",
+    "pixel (22, 15)",
+    "pixel (22, 16)",
+    "pixel (22, 17)",
+    "pixel (22, 18)",
+    "pixel (22, 19)",
+    "pixel (22, 20)",
+    "pixel (22, 21)",
+    "pixel (22, 22)",
+    "pixel (22, 23)",
+    "pixel (22, 24)",
+    "pixel (22, 25)",
+    "pixel (22, 26)",
+    "pixel (22, 27)",
+    "pixel (23, 0)",
+    "pixel (23, 1)",
+    "pixel (23, 2)",
+    "pixel (23, 3)",
+    "pixel (23, 4)",
+    "pixel (23, 5)",
+    "pixel (23, 6)",
+    "pixel (23, 7)",
+    "pixel (23, 8)",
+    "pixel (23, 9)",
+    "pixel (23, 10)",
+    "pixel (23, 11)",
+    "pixel (23, 12)",
+    "pixel (23, 13)",
+    "pixel (23, 14)",
+    "pixel (23, 15)",
+    "pixel (23, 16)",
+    "pixel (23, 17)",
+    "pixel (23, 18)",
+    "pixel (23, 19)",
+    "pixel (23, 20)",
+    "pixel (23, 21)",
+    "pixel (23, 22)",
+    "pixel (23, 23)",
+    "pixel (23, 24)",
+    "pixel (23, 25)",
+    "pixel (23, 26)",
+    "pixel (23, 27)",
+    "pixel (24, 0)",
+    "pixel (24, 1)",
+    "pixel (24, 2)",
+    "pixel (24, 3)",
+    "pixel (24, 4)",
+    "pixel (24, 5)",
+    "pixel (24, 6)",
+    "pixel (24, 7)",
+    "pixel (24, 8)",
+    "pixel (24, 9)",
+    "pixel (24, 10)",
+    "pixel (24, 11)",
+    "pixel (24, 12)",
+    "pixel (24, 13)",
+    "pixel (24, 14)",
+    "pixel (24, 15)",
+    "pixel (24, 16)",
+    "pixel (24, 17)",
+    "pixel (24, 18)",
+    "pixel (24, 19)",
+    "pixel (24, 20)",
+    "pixel (24, 21)",
+    "pixel (24, 22)",
+    "pixel (24, 23)",
+    "pixel (24, 24)",
+    "pixel (24, 25)",
+    "pixel (24, 26)",
+    "pixel (24, 27)",
+    "pixel (25, 0)",
+    "pixel (25, 1)",
+    "pixel (25, 2)",
+    "pixel (25, 3)",
+    "pixel (25, 4)",
+    "pixel (25, 5)",
+    "pixel (25, 6)",
+    "pixel (25, 7)",
+    "pixel (25, 8)",
+    "pixel (25, 9)",
+    "pixel (25, 10)",
+    "pixel (25, 11)",
+    "pixel (25, 12)",
+    "pixel (25, 13)",
+    "pixel (25, 14)",
+    "pixel (25, 15)",
+    "pixel (25, 16)",
+    "pixel (25, 17)",
+    "pixel (25, 18)",
+    "pixel (25, 19)",
+    "pixel (25, 20)",
+    "pixel (25, 21)",
+    "pixel (25, 22)",
+    "pixel (25, 23)",
+    "pixel (25, 24)",
+    "pixel (25, 25)",
+    "pixel (25, 26)",
+    "pixel (25, 27)",
+    "pixel (26, 0)",
+    "pixel (26, 1)",
+    "pixel (26, 2)",
+    "pixel (26, 3)",
+    "pixel (26, 4)",
+    "pixel (26, 5)",
+    "pixel (26, 6)",
+    "pixel (26, 7)",
+    "pixel (26, 8)",
+    "pixel (26, 9)",
+    "pixel (26, 10)",
+    "pixel (26, 11)",
+    "pixel (26, 12)",
+    "pixel (26, 13)",
+    "pixel (26, 14)",
+    "pixel (26, 15)",
+    "pixel (26, 16)",
+    "pixel (26, 17)",
+    "pixel (26, 18)",
+    "pixel (26, 19)",
+    "pixel (26, 20)",
+    "pixel (26, 21)",
+    "pixel (26, 22)",
+    "pixel (26, 23)",
+    "pixel (26, 24)",
+    "pixel (26, 25)",
+    "pixel (26, 26)",
+    "pixel (26, 27)",
+    "pixel (27, 0)",
+    "pixel (27, 1)",
+    "pixel (27, 2)",
+    "pixel (27, 3)",
+    "pixel (27, 4)",
+    "pixel (27, 5)",
+    "pixel (27, 6)",
+    "pixel (27, 7)",
+    "pixel (27, 8)",
+    "pixel (27, 9)",
+    "pixel (27, 10)",
+    "pixel (27, 11)",
+    "pixel (27, 12)",
+    "pixel (27, 13)",
+    "pixel (27, 14)",
+    "pixel (27, 15)",
+    "pixel (27, 16)",
+    "pixel (27, 17)",
+    "pixel (27, 18)",
+    "pixel (27, 19)",
+    "pixel (27, 20)",
+    "pixel (27, 21)",
+    "pixel (27, 22)",
+    "pixel (27, 23)",
+    "pixel (27, 24)",
+    "pixel (27, 25)",
+    "pixel (27, 26)",
+    "pixel (27, 27)"
+  ],
+  "feature_types": [
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean"
+  ],
+  "class_names": [
+    "is 4",
+    "not 4"
+  ],
+  "positive": "is 4",
+  "nodes": {
+    "0": {
+      "id": 0,
+      "type": "internal",
+      "feature_name": "pixel (7, 15)",
+      "feature_index": 211,
+      "threshold": 40.68219260344384,
+      "id_left": 1,
+      "id_right": 2
+    },
+    "1": {
+      "id": 1,
+      "type": "internal",
+      "feature_name": "pixel (5, 15)",
+      "feature_index": 155,
+      "threshold": 70.50173720601096,
+      "id_left": 3,
+      "id_right": 4
+    },
+    "3": {
+      "id": 3,
+      "type": "internal",
+      "feature_name": "pixel (9, 15)",
+      "feature_index": 267,
+      "threshold": 38.54712148827832,
+      "id_left": 5,
+      "id_right": 6
+    },
+    "5": {
+      "id": 5,
+      "type": "internal",
+      "feature_name": "pixel (15, 17)",
+      "feature_index": 437,
+      "threshold": 62.44208301764078,
+      "id_left": 7,
+      "id_right": 8
+    },
+    "7": {
+      "id": 7,
+      "type": "internal",
+      "feature_name": "pixel (12, 14)",
+      "feature_index": 350,
+      "threshold": 65.34053412049103,
+      "id_left": 19,
+      "id_right": 20
+    },
+    "19": {
+      "id": 19,
+      "type": "internal",
+      "feature_name": "pixel (20, 16)",
+      "feature_index": 576,
+      "threshold": 150.0616484019261,
+      "id_left": 27,
+      "id_right": 28
+    },
+    "27": {
+      "id": 27,
+      "type": "internal",
+      "feature_name": "pixel (20, 9)",
+      "feature_index": 569,
+      "threshold": 176.47684785373363,
+      "id_left": 55,
+      "id_right": 56
+    },
+    "55": {
+      "id": 55,
+      "type": "internal",
+      "feature_name": "pixel (11, 14)",
+      "feature_index": 322,
+      "threshold": 216.79210661528265,
+      "id_left": 115,
+      "id_right": 116
+    },
+    "115": {
+      "id": 115,
+      "type": "internal",
+      "feature_name": "pixel (3, 16)",
+      "feature_index": 100,
+      "threshold": 243.00877313269712,
+      "id_left": 169,
+      "id_right": 170
+    },
+    "169": {
+      "id": 169,
+      "type": "internal",
+      "feature_name": "pixel (19, 11)",
+      "feature_index": 543,
+      "threshold": 254.79501216197153,
+      "id_left": 213,
+      "id_right": 214
+    },
+    "213": {
+      "id": 213,
+      "type": "internal",
+      "feature_name": "pixel (6, 15)",
+      "feature_index": 183,
+      "threshold": 65.83595189304833,
+      "id_left": 239,
+      "id_right": 240
+    },
+    "239": {
+      "id": 239,
+      "type": "internal",
+      "feature_name": "pixel (22, 8)",
+      "feature_index": 624,
+      "threshold": 186.54139238015813,
+      "id_left": 341,
+      "id_right": 342
+    },
+    "341": {
+      "id": 341,
+      "type": "internal",
+      "feature_name": "pixel (10, 14)",
+      "feature_index": 294,
+      "threshold": 61.11130215745014,
+      "id_left": 621,
+      "id_right": 622
+    },
+    "621": {
+      "id": 621,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "622": {
+      "id": 622,
+      "type": "internal",
+      "feature_name": "pixel (8, 19)",
+      "feature_index": 243,
+      "threshold": 176.85087128395722,
+      "id_left": 623,
+      "id_right": 624
+    },
+    "623": {
+      "id": 623,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "624": {
+      "id": 624,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "342": {
+      "id": 342,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "240": {
+      "id": 240,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "214": {
+      "id": 214,
+      "type": "internal",
+      "feature_name": "pixel (14, 9)",
+      "feature_index": 401,
+      "threshold": 237.3118517558611,
+      "id_left": 215,
+      "id_right": 216
+    },
+    "215": {
+      "id": 215,
+      "type": "internal",
+      "feature_name": "pixel (14, 6)",
+      "feature_index": 398,
+      "threshold": 145.98914817254484,
+      "id_left": 217,
+      "id_right": 218
+    },
+    "217": {
+      "id": 217,
+      "type": "internal",
+      "feature_name": "pixel (2, 14)",
+      "feature_index": 70,
+      "threshold": 62.283056800851156,
+      "id_left": 393,
+      "id_right": 394
+    },
+    "393": {
+      "id": 393,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "394": {
+      "id": 394,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "218": {
+      "id": 218,
+      "type": "internal",
+      "feature_name": "pixel (12, 23)",
+      "feature_index": 359,
+      "threshold": 132.89175363625014,
+      "id_left": 275,
+      "id_right": 276
+    },
+    "275": {
+      "id": 275,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "276": {
+      "id": 276,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "216": {
+      "id": 216,
+      "type": "internal",
+      "feature_name": "pixel (20, 14)",
+      "feature_index": 574,
+      "threshold": 119.45380783614414,
+      "id_left": 355,
+      "id_right": 356
+    },
+    "355": {
+      "id": 355,
+      "type": "internal",
+      "feature_name": "pixel (19, 12)",
+      "feature_index": 544,
+      "threshold": 55.866986725417426,
+      "id_left": 891,
+      "id_right": 892
+    },
+    "891": {
+      "id": 891,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "892": {
+      "id": 892,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "356": {
+      "id": 356,
+      "type": "internal",
+      "feature_name": "pixel (9, 17)",
+      "feature_index": 269,
+      "threshold": 11.893832155919556,
+      "id_left": 357,
+      "id_right": 358
+    },
+    "357": {
+      "id": 357,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "358": {
+      "id": 358,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "170": {
+      "id": 170,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "116": {
+      "id": 116,
+      "type": "internal",
+      "feature_name": "pixel (11, 15)",
+      "feature_index": 323,
+      "threshold": 25.430791736781035,
+      "id_left": 295,
+      "id_right": 296
+    },
+    "295": {
+      "id": 295,
+      "type": "internal",
+      "feature_name": "pixel (11, 16)",
+      "feature_index": 324,
+      "threshold": 92.43393317443967,
+      "id_left": 737,
+      "id_right": 738
+    },
+    "737": {
+      "id": 737,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "738": {
+      "id": 738,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "296": {
+      "id": 296,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "56": {
+      "id": 56,
+      "type": "internal",
+      "feature_name": "pixel (14, 8)",
+      "feature_index": 400,
+      "threshold": 71.77594242700187,
+      "id_left": 97,
+      "id_right": 98
+    },
+    "97": {
+      "id": 97,
+      "type": "internal",
+      "feature_name": "pixel (12, 12)",
+      "feature_index": 348,
+      "threshold": 28.353919784237593,
+      "id_left": 261,
+      "id_right": 262
+    },
+    "261": {
+      "id": 261,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "262": {
+      "id": 262,
+      "type": "internal",
+      "feature_name": "pixel (12, 17)",
+      "feature_index": 353,
+      "threshold": 125.70800873483904,
+      "id_left": 263,
+      "id_right": 264
+    },
+    "263": {
+      "id": 263,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "264": {
+      "id": 264,
+      "type": "internal",
+      "feature_name": "pixel (5, 16)",
+      "feature_index": 156,
+      "threshold": 27.203548018449705,
+      "id_left": 923,
+      "id_right": 924
+    },
+    "923": {
+      "id": 923,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "924": {
+      "id": 924,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "98": {
+      "id": 98,
+      "type": "internal",
+      "feature_name": "pixel (6, 12)",
+      "feature_index": 180,
+      "threshold": 35.59327873894632,
+      "id_left": 247,
+      "id_right": 248
+    },
+    "247": {
+      "id": 247,
+      "type": "internal",
+      "feature_name": "pixel (9, 25)",
+      "feature_index": 277,
+      "threshold": 223.5860021731751,
+      "id_left": 455,
+      "id_right": 456
+    },
+    "455": {
+      "id": 455,
+      "type": "internal",
+      "feature_name": "pixel (3, 12)",
+      "feature_index": 96,
+      "threshold": 166.78915653693917,
+      "id_left": 597,
+      "id_right": 598
+    },
+    "597": {
+      "id": 597,
+      "type": "internal",
+      "feature_name": "pixel (5, 10)",
+      "feature_index": 150,
+      "threshold": 95.65862788383785,
+      "id_left": 695,
+      "id_right": 696
+    },
+    "695": {
+      "id": 695,
+      "type": "internal",
+      "feature_name": "pixel (3, 18)",
+      "feature_index": 102,
+      "threshold": 239.42472541212325,
+      "id_left": 915,
+      "id_right": 916
+    },
+    "915": {
+      "id": 915,
+      "type": "internal",
+      "feature_name": "pixel (21, 6)",
+      "feature_index": 594,
+      "threshold": 58.09856945560247,
+      "id_left": 917,
+      "id_right": 918
+    },
+    "917": {
+      "id": 917,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "918": {
+      "id": 918,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "916": {
+      "id": 916,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "696": {
+      "id": 696,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "598": {
+      "id": 598,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "456": {
+      "id": 456,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "248": {
+      "id": 248,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "28": {
+      "id": 28,
+      "type": "internal",
+      "feature_name": "pixel (20, 13)",
+      "feature_index": 573,
+      "threshold": 68.23120573453195,
+      "id_left": 35,
+      "id_right": 36
+    },
+    "35": {
+      "id": 35,
+      "type": "internal",
+      "feature_name": "pixel (22, 12)",
+      "feature_index": 628,
+      "threshold": 37.46798260019533,
+      "id_left": 133,
+      "id_right": 134
+    },
+    "133": {
+      "id": 133,
+      "type": "internal",
+      "feature_name": "pixel (17, 22)",
+      "feature_index": 498,
+      "threshold": 133.79248164770775,
+      "id_left": 303,
+      "id_right": 304
+    },
+    "303": {
+      "id": 303,
+      "type": "internal",
+      "feature_name": "pixel (10, 13)",
+      "feature_index": 293,
+      "threshold": 50.548873434564506,
+      "id_left": 387,
+      "id_right": 388
+    },
+    "387": {
+      "id": 387,
+      "type": "internal",
+      "feature_name": "pixel (20, 10)",
+      "feature_index": 570,
+      "threshold": 86.75812726456584,
+      "id_left": 463,
+      "id_right": 464
+    },
+    "463": {
+      "id": 463,
+      "type": "internal",
+      "feature_name": "pixel (12, 13)",
+      "feature_index": 349,
+      "threshold": 192.16419137183772,
+      "id_left": 709,
+      "id_right": 710
+    },
+    "709": {
+      "id": 709,
+      "type": "internal",
+      "feature_name": "pixel (4, 14)",
+      "feature_index": 126,
+      "threshold": 45.828853156803575,
+      "id_left": 711,
+      "id_right": 712
+    },
+    "711": {
+      "id": 711,
+      "type": "internal",
+      "feature_name": "pixel (22, 10)",
+      "feature_index": 626,
+      "threshold": 201.13520397624708,
+      "id_left": 783,
+      "id_right": 784
+    },
+    "783": {
+      "id": 783,
+      "type": "internal",
+      "feature_name": "pixel (3, 10)",
+      "feature_index": 94,
+      "threshold": 103.62264334160027,
+      "id_left": 785,
+      "id_right": 786
+    },
+    "785": {
+      "id": 785,
+      "type": "internal",
+      "feature_name": "pixel (14, 23)",
+      "feature_index": 415,
+      "threshold": 164.8379437810918,
+      "id_left": 897,
+      "id_right": 898
+    },
+    "897": {
+      "id": 897,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "898": {
+      "id": 898,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "786": {
+      "id": 786,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "784": {
+      "id": 784,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "712": {
+      "id": 712,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "710": {
+      "id": 710,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "464": {
+      "id": 464,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "388": {
+      "id": 388,
+      "type": "internal",
+      "feature_name": "pixel (15, 16)",
+      "feature_index": 436,
+      "threshold": 29.60254347166165,
+      "id_left": 517,
+      "id_right": 518
+    },
+    "517": {
+      "id": 517,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "518": {
+      "id": 518,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "304": {
+      "id": 304,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "134": {
+      "id": 134,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "36": {
+      "id": 36,
+      "type": "internal",
+      "feature_name": "pixel (5, 20)",
+      "feature_index": 160,
+      "threshold": 133.58989801192186,
+      "id_left": 191,
+      "id_right": 192
+    },
+    "191": {
+      "id": 191,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "192": {
+      "id": 192,
+      "type": "internal",
+      "feature_name": "pixel (9, 17)",
+      "feature_index": 269,
+      "threshold": 96.46295376190122,
+      "id_left": 223,
+      "id_right": 224
+    },
+    "223": {
+      "id": 223,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "224": {
+      "id": 224,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "20": {
+      "id": 20,
+      "type": "internal",
+      "feature_name": "pixel (13, 10)",
+      "feature_index": 374,
+      "threshold": 5.191388784531219,
+      "id_left": 31,
+      "id_right": 32
+    },
+    "31": {
+      "id": 31,
+      "type": "internal",
+      "feature_name": "pixel (23, 21)",
+      "feature_index": 665,
+      "threshold": 159.44973802634038,
+      "id_left": 291,
+      "id_right": 292
+    },
+    "291": {
+      "id": 291,
+      "type": "internal",
+      "feature_name": "pixel (25, 10)",
+      "feature_index": 710,
+      "threshold": 27.0881197122336,
+      "id_left": 475,
+      "id_right": 476
+    },
+    "475": {
+      "id": 475,
+      "type": "internal",
+      "feature_name": "pixel (25, 16)",
+      "feature_index": 716,
+      "threshold": 87.38391616027053,
+      "id_left": 681,
+      "id_right": 682
+    },
+    "681": {
+      "id": 681,
+      "type": "internal",
+      "feature_name": "pixel (11, 10)",
+      "feature_index": 318,
+      "threshold": 232.2799888613075,
+      "id_left": 801,
+      "id_right": 802
+    },
+    "801": {
+      "id": 801,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "802": {
+      "id": 802,
+      "type": "internal",
+      "feature_name": "pixel (7, 17)",
+      "feature_index": 213,
+      "threshold": 252.37181129510134,
+      "id_left": 803,
+      "id_right": 804
+    },
+    "803": {
+      "id": 803,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "804": {
+      "id": 804,
+      "type": "internal",
+      "feature_name": "pixel (9, 9)",
+      "feature_index": 261,
+      "threshold": 120.61804624535984,
+      "id_left": 973,
+      "id_right": 974
+    },
+    "973": {
+      "id": 973,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "974": {
+      "id": 974,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "682": {
+      "id": 682,
+      "type": "internal",
+      "feature_name": "pixel (9, 16)",
+      "feature_index": 268,
+      "threshold": 125.4803937047163,
+      "id_left": 683,
+      "id_right": 684
+    },
+    "683": {
+      "id": 683,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "684": {
+      "id": 684,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "476": {
+      "id": 476,
+      "type": "internal",
+      "feature_name": "pixel (8, 13)",
+      "feature_index": 237,
+      "threshold": 135.09731714385435,
+      "id_left": 845,
+      "id_right": 846
+    },
+    "845": {
+      "id": 845,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "846": {
+      "id": 846,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "292": {
+      "id": 292,
+      "type": "internal",
+      "feature_name": "pixel (10, 22)",
+      "feature_index": 302,
+      "threshold": 128.42087102747564,
+      "id_left": 481,
+      "id_right": 482
+    },
+    "481": {
+      "id": 481,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "482": {
+      "id": 482,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "32": {
+      "id": 32,
+      "type": "internal",
+      "feature_name": "pixel (14, 16)",
+      "feature_index": 408,
+      "threshold": 211.75514878786873,
+      "id_left": 49,
+      "id_right": 50
+    },
+    "49": {
+      "id": 49,
+      "type": "internal",
+      "feature_name": "pixel (8, 16)",
+      "feature_index": 240,
+      "threshold": 102.00137828104262,
+      "id_left": 197,
+      "id_right": 198
+    },
+    "197": {
+      "id": 197,
+      "type": "internal",
+      "feature_name": "pixel (6, 20)",
+      "feature_index": 188,
+      "threshold": 108.01378449798273,
+      "id_left": 283,
+      "id_right": 284
+    },
+    "283": {
+      "id": 283,
+      "type": "internal",
+      "feature_name": "pixel (17, 5)",
+      "feature_index": 481,
+      "threshold": 146.98667670226968,
+      "id_left": 691,
+      "id_right": 692
+    },
+    "691": {
+      "id": 691,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "692": {
+      "id": 692,
+      "type": "internal",
+      "feature_name": "pixel (20, 19)",
+      "feature_index": 579,
+      "threshold": 242.9155431165898,
+      "id_left": 693,
+      "id_right": 694
+    },
+    "693": {
+      "id": 693,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "694": {
+      "id": 694,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "284": {
+      "id": 284,
+      "type": "internal",
+      "feature_name": "pixel (22, 11)",
+      "feature_index": 627,
+      "threshold": 248.9243991365304,
+      "id_left": 665,
+      "id_right": 666
+    },
+    "665": {
+      "id": 665,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "666": {
+      "id": 666,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "198": {
+      "id": 198,
+      "type": "internal",
+      "feature_name": "pixel (18, 17)",
+      "feature_index": 521,
+      "threshold": 241.47788123529307,
+      "id_left": 721,
+      "id_right": 722
+    },
+    "721": {
+      "id": 721,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "722": {
+      "id": 722,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "50": {
+      "id": 50,
+      "type": "internal",
+      "feature_name": "pixel (5, 11)",
+      "feature_index": 151,
+      "threshold": 177.6332061982868,
+      "id_left": 103,
+      "id_right": 104
+    },
+    "103": {
+      "id": 103,
+      "type": "internal",
+      "feature_name": "pixel (20, 8)",
+      "feature_index": 568,
+      "threshold": 139.17733206375377,
+      "id_left": 241,
+      "id_right": 242
+    },
+    "241": {
+      "id": 241,
+      "type": "internal",
+      "feature_name": "pixel (4, 14)",
+      "feature_index": 126,
+      "threshold": 147.41192269018475,
+      "id_left": 271,
+      "id_right": 272
+    },
+    "271": {
+      "id": 271,
+      "type": "internal",
+      "feature_name": "pixel (6, 15)",
+      "feature_index": 183,
+      "threshold": 210.7230295267529,
+      "id_left": 627,
+      "id_right": 628
+    },
+    "627": {
+      "id": 627,
+      "type": "internal",
+      "feature_name": "pixel (4, 9)",
+      "feature_index": 121,
+      "threshold": 118.29331210734942,
+      "id_left": 789,
+      "id_right": 790
+    },
+    "789": {
+      "id": 789,
+      "type": "internal",
+      "feature_name": "pixel (12, 16)",
+      "feature_index": 352,
+      "threshold": 6.62278147722724,
+      "id_left": 933,
+      "id_right": 934
+    },
+    "933": {
+      "id": 933,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "934": {
+      "id": 934,
+      "type": "internal",
+      "feature_name": "pixel (9, 24)",
+      "feature_index": 276,
+      "threshold": 201.9572114930289,
+      "id_left": 935,
+      "id_right": 936
+    },
+    "935": {
+      "id": 935,
+      "type": "internal",
+      "feature_name": "pixel (26, 11)",
+      "feature_index": 739,
+      "threshold": 241.19377380525404,
+      "id_left": 937,
+      "id_right": 938
+    },
+    "937": {
+      "id": 937,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "938": {
+      "id": 938,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "936": {
+      "id": 936,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "790": {
+      "id": 790,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "628": {
+      "id": 628,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "272": {
+      "id": 272,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "242": {
+      "id": 242,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "104": {
+      "id": 104,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "8": {
+      "id": 8,
+      "type": "internal",
+      "feature_name": "pixel (3, 13)",
+      "feature_index": 97,
+      "threshold": 55.677048573585715,
+      "id_left": 17,
+      "id_right": 18
+    },
+    "17": {
+      "id": 17,
+      "type": "internal",
+      "feature_name": "pixel (3, 15)",
+      "feature_index": 99,
+      "threshold": 99.13621113595376,
+      "id_left": 51,
+      "id_right": 52
+    },
+    "51": {
+      "id": 51,
+      "type": "internal",
+      "feature_name": "pixel (2, 11)",
+      "feature_index": 67,
+      "threshold": 67.11878965707439,
+      "id_left": 57,
+      "id_right": 58
+    },
+    "57": {
+      "id": 57,
+      "type": "internal",
+      "feature_name": "pixel (11, 14)",
+      "feature_index": 322,
+      "threshold": 88.92896716665894,
+      "id_left": 67,
+      "id_right": 68
+    },
+    "67": {
+      "id": 67,
+      "type": "internal",
+      "feature_name": "pixel (3, 8)",
+      "feature_index": 92,
+      "threshold": 207.69971225536415,
+      "id_left": 101,
+      "id_right": 102
+    },
+    "101": {
+      "id": 101,
+      "type": "internal",
+      "feature_name": "pixel (3, 9)",
+      "feature_index": 93,
+      "threshold": 163.20870140484007,
+      "id_left": 315,
+      "id_right": 316
+    },
+    "315": {
+      "id": 315,
+      "type": "internal",
+      "feature_name": "pixel (6, 15)",
+      "feature_index": 183,
+      "threshold": 234.69767004935895,
+      "id_left": 317,
+      "id_right": 318
+    },
+    "317": {
+      "id": 317,
+      "type": "internal",
+      "feature_name": "pixel (2, 17)",
+      "feature_index": 73,
+      "threshold": 24.394762129241023,
+      "id_left": 321,
+      "id_right": 322
+    },
+    "321": {
+      "id": 321,
+      "type": "internal",
+      "feature_name": "pixel (20, 9)",
+      "feature_index": 569,
+      "threshold": 228.63771615253654,
+      "id_left": 585,
+      "id_right": 586
+    },
+    "585": {
+      "id": 585,
+      "type": "internal",
+      "feature_name": "pixel (2, 12)",
+      "feature_index": 68,
+      "threshold": 232.86271514271513,
+      "id_left": 773,
+      "id_right": 774
+    },
+    "773": {
+      "id": 773,
+      "type": "internal",
+      "feature_name": "pixel (26, 17)",
+      "feature_index": 745,
+      "threshold": 68.00234199641382,
+      "id_left": 853,
+      "id_right": 854
+    },
+    "853": {
+      "id": 853,
+      "type": "internal",
+      "feature_name": "pixel (2, 23)",
+      "feature_index": 79,
+      "threshold": 148.47964900940642,
+      "id_left": 867,
+      "id_right": 868
+    },
+    "867": {
+      "id": 867,
+      "type": "internal",
+      "feature_name": "pixel (3, 7)",
+      "feature_index": 91,
+      "threshold": 222.1391609344348,
+      "id_left": 869,
+      "id_right": 870
+    },
+    "869": {
+      "id": 869,
+      "type": "internal",
+      "feature_name": "pixel (12, 26)",
+      "feature_index": 362,
+      "threshold": 66.77227401955625,
+      "id_left": 871,
+      "id_right": 872
+    },
+    "871": {
+      "id": 871,
+      "type": "internal",
+      "feature_name": "pixel (26, 20)",
+      "feature_index": 748,
+      "threshold": 25.531236734488623,
+      "id_left": 873,
+      "id_right": 874
+    },
+    "873": {
+      "id": 873,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "874": {
+      "id": 874,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "872": {
+      "id": 872,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "870": {
+      "id": 870,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "868": {
+      "id": 868,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "854": {
+      "id": 854,
+      "type": "internal",
+      "feature_name": "pixel (18, 15)",
+      "feature_index": 519,
+      "threshold": 12.653566239240376,
+      "id_left": 855,
+      "id_right": 856
+    },
+    "855": {
+      "id": 855,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "856": {
+      "id": 856,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "774": {
+      "id": 774,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "586": {
+      "id": 586,
+      "type": "internal",
+      "feature_name": "pixel (4, 17)",
+      "feature_index": 129,
+      "threshold": 219.23817346768368,
+      "id_left": 587,
+      "id_right": 588
+    },
+    "587": {
+      "id": 587,
+      "type": "internal",
+      "feature_name": "pixel (15, 9)",
+      "feature_index": 429,
+      "threshold": 38.22924408280721,
+      "id_left": 635,
+      "id_right": 636
+    },
+    "635": {
+      "id": 635,
+      "type": "internal",
+      "feature_name": "pixel (12, 14)",
+      "feature_index": 350,
+      "threshold": 201.17674667210167,
+      "id_left": 637,
+      "id_right": 638
+    },
+    "637": {
+      "id": 637,
+      "type": "internal",
+      "feature_name": "pixel (12, 22)",
+      "feature_index": 358,
+      "threshold": 224.41678377539702,
+      "id_left": 639,
+      "id_right": 640
+    },
+    "639": {
+      "id": 639,
+      "type": "internal",
+      "feature_name": "pixel (7, 16)",
+      "feature_index": 212,
+      "threshold": 213.97991765242998,
+      "id_left": 661,
+      "id_right": 662
+    },
+    "661": {
+      "id": 661,
+      "type": "internal",
+      "feature_name": "pixel (22, 6)",
+      "feature_index": 622,
+      "threshold": 151.29807557505467,
+      "id_left": 713,
+      "id_right": 714
+    },
+    "713": {
+      "id": 713,
+      "type": "internal",
+      "feature_name": "pixel (11, 18)",
+      "feature_index": 326,
+      "threshold": 7.097113587473106,
+      "id_left": 857,
+      "id_right": 858
+    },
+    "857": {
+      "id": 857,
+      "type": "internal",
+      "feature_name": "pixel (12, 16)",
+      "feature_index": 352,
+      "threshold": 117.26013864030136,
+      "id_left": 859,
+      "id_right": 860
+    },
+    "859": {
+      "id": 859,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "860": {
+      "id": 860,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "858": {
+      "id": 858,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "714": {
+      "id": 714,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "662": {
+      "id": 662,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "640": {
+      "id": 640,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "638": {
+      "id": 638,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "636": {
+      "id": 636,
+      "type": "internal",
+      "feature_name": "pixel (6, 7)",
+      "feature_index": 175,
+      "threshold": 117.20177959054791,
+      "id_left": 687,
+      "id_right": 688
+    },
+    "687": {
+      "id": 687,
+      "type": "internal",
+      "feature_name": "pixel (9, 26)",
+      "feature_index": 278,
+      "threshold": 220.8107605277611,
+      "id_left": 903,
+      "id_right": 904
+    },
+    "903": {
+      "id": 903,
+      "type": "internal",
+      "feature_name": "pixel (20, 3)",
+      "feature_index": 563,
+      "threshold": 117.87761180097127,
+      "id_left": 905,
+      "id_right": 906
+    },
+    "905": {
+      "id": 905,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "906": {
+      "id": 906,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "904": {
+      "id": 904,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "688": {
+      "id": 688,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "588": {
+      "id": 588,
+      "type": "internal",
+      "feature_name": "pixel (7, 8)",
+      "feature_index": 204,
+      "threshold": 127.76466927619869,
+      "id_left": 589,
+      "id_right": 590
+    },
+    "589": {
+      "id": 589,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "590": {
+      "id": 590,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "322": {
+      "id": 322,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "318": {
+      "id": 318,
+      "type": "internal",
+      "feature_name": "pixel (13, 10)",
+      "feature_index": 374,
+      "threshold": 42.3151754039876,
+      "id_left": 319,
+      "id_right": 320
+    },
+    "319": {
+      "id": 319,
+      "type": "internal",
+      "feature_name": "pixel (11, 12)",
+      "feature_index": 320,
+      "threshold": 228.4851892494993,
+      "id_left": 593,
+      "id_right": 594
+    },
+    "593": {
+      "id": 593,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "594": {
+      "id": 594,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "320": {
+      "id": 320,
+      "type": "internal",
+      "feature_name": "pixel (16, 14)",
+      "feature_index": 462,
+      "threshold": 125.08353183748365,
+      "id_left": 603,
+      "id_right": 604
+    },
+    "603": {
+      "id": 603,
+      "type": "internal",
+      "feature_name": "pixel (9, 8)",
+      "feature_index": 260,
+      "threshold": 104.88962360652611,
+      "id_left": 605,
+      "id_right": 606
+    },
+    "605": {
+      "id": 605,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "606": {
+      "id": 606,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "604": {
+      "id": 604,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "316": {
+      "id": 316,
+      "type": "internal",
+      "feature_name": "pixel (7, 18)",
+      "feature_index": 214,
+      "threshold": 217.26483699272612,
+      "id_left": 339,
+      "id_right": 340
+    },
+    "339": {
+      "id": 339,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "340": {
+      "id": 340,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "102": {
+      "id": 102,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "68": {
+      "id": 68,
+      "type": "internal",
+      "feature_name": "pixel (14, 10)",
+      "feature_index": 402,
+      "threshold": 39.44893434152423,
+      "id_left": 69,
+      "id_right": 70
+    },
+    "69": {
+      "id": 69,
+      "type": "internal",
+      "feature_name": "pixel (14, 18)",
+      "feature_index": 410,
+      "threshold": 236.9237914038467,
+      "id_left": 203,
+      "id_right": 204
+    },
+    "203": {
+      "id": 203,
+      "type": "internal",
+      "feature_name": "pixel (9, 11)",
+      "feature_index": 263,
+      "threshold": 24.298586558689635,
+      "id_left": 237,
+      "id_right": 238
+    },
+    "237": {
+      "id": 237,
+      "type": "internal",
+      "feature_name": "pixel (22, 11)",
+      "feature_index": 627,
+      "threshold": 11.483770034501221,
+      "id_left": 485,
+      "id_right": 486
+    },
+    "485": {
+      "id": 485,
+      "type": "internal",
+      "feature_name": "pixel (10, 11)",
+      "feature_index": 291,
+      "threshold": 203.90765182157404,
+      "id_left": 671,
+      "id_right": 672
+    },
+    "671": {
+      "id": 671,
+      "type": "internal",
+      "feature_name": "pixel (19, 7)",
+      "feature_index": 539,
+      "threshold": 78.96533857517193,
+      "id_left": 813,
+      "id_right": 814
+    },
+    "813": {
+      "id": 813,
+      "type": "internal",
+      "feature_name": "pixel (17, 18)",
+      "feature_index": 494,
+      "threshold": 239.3973417065094,
+      "id_left": 939,
+      "id_right": 940
+    },
+    "939": {
+      "id": 939,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "940": {
+      "id": 940,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "814": {
+      "id": 814,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "672": {
+      "id": 672,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "486": {
+      "id": 486,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "238": {
+      "id": 238,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "204": {
+      "id": 204,
+      "type": "internal",
+      "feature_name": "pixel (6, 23)",
+      "feature_index": 191,
+      "threshold": 84.9167986749284,
+      "id_left": 545,
+      "id_right": 546
+    },
+    "545": {
+      "id": 545,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "546": {
+      "id": 546,
+      "type": "internal",
+      "feature_name": "pixel (15, 7)",
+      "feature_index": 427,
+      "threshold": 82.54516044750119,
+      "id_left": 793,
+      "id_right": 794
+    },
+    "793": {
+      "id": 793,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "794": {
+      "id": 794,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "70": {
+      "id": 70,
+      "type": "internal",
+      "feature_name": "pixel (9, 24)",
+      "feature_index": 276,
+      "threshold": 35.31087148017756,
+      "id_left": 299,
+      "id_right": 300
+    },
+    "299": {
+      "id": 299,
+      "type": "internal",
+      "feature_name": "pixel (19, 23)",
+      "feature_index": 555,
+      "threshold": 101.1771738883933,
+      "id_left": 345,
+      "id_right": 346
+    },
+    "345": {
+      "id": 345,
+      "type": "internal",
+      "feature_name": "pixel (21, 6)",
+      "feature_index": 594,
+      "threshold": 100.45983591138378,
+      "id_left": 465,
+      "id_right": 466
+    },
+    "465": {
+      "id": 465,
+      "type": "internal",
+      "feature_name": "pixel (13, 11)",
+      "feature_index": 375,
+      "threshold": 174.79726874725765,
+      "id_left": 469,
+      "id_right": 470
+    },
+    "469": {
+      "id": 469,
+      "type": "internal",
+      "feature_name": "pixel (18, 22)",
+      "feature_index": 526,
+      "threshold": 165.60562893776486,
+      "id_left": 561,
+      "id_right": 562
+    },
+    "561": {
+      "id": 561,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "562": {
+      "id": 562,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "470": {
+      "id": 470,
+      "type": "internal",
+      "feature_name": "pixel (11, 23)",
+      "feature_index": 331,
+      "threshold": 196.7637753308582,
+      "id_left": 701,
+      "id_right": 702
+    },
+    "701": {
+      "id": 701,
+      "type": "internal",
+      "feature_name": "pixel (13, 24)",
+      "feature_index": 388,
+      "threshold": 128.12401266914048,
+      "id_left": 807,
+      "id_right": 808
+    },
+    "807": {
+      "id": 807,
+      "type": "internal",
+      "feature_name": "pixel (13, 17)",
+      "feature_index": 381,
+      "threshold": 22.607963107343746,
+      "id_left": 861,
+      "id_right": 862
+    },
+    "861": {
+      "id": 861,
+      "type": "internal",
+      "feature_name": "pixel (10, 11)",
+      "feature_index": 291,
+      "threshold": 119.96645519042688,
+      "id_left": 863,
+      "id_right": 864
+    },
+    "863": {
+      "id": 863,
+      "type": "internal",
+      "feature_name": "pixel (5, 12)",
+      "feature_index": 152,
+      "threshold": 216.41598237278683,
+      "id_left": 865,
+      "id_right": 866
+    },
+    "865": {
+      "id": 865,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "866": {
+      "id": 866,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "864": {
+      "id": 864,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "862": {
+      "id": 862,
+      "type": "internal",
+      "feature_name": "pixel (26, 14)",
+      "feature_index": 742,
+      "threshold": 254.48245791461434,
+      "id_left": 927,
+      "id_right": 928
+    },
+    "927": {
+      "id": 927,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "928": {
+      "id": 928,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "808": {
+      "id": 808,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "702": {
+      "id": 702,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "466": {
+      "id": 466,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "346": {
+      "id": 346,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "300": {
+      "id": 300,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "58": {
+      "id": 58,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "52": {
+      "id": 52,
+      "type": "internal",
+      "feature_name": "pixel (19, 11)",
+      "feature_index": 543,
+      "threshold": 19.620634298594965,
+      "id_left": 309,
+      "id_right": 310
+    },
+    "309": {
+      "id": 309,
+      "type": "internal",
+      "feature_name": "pixel (21, 12)",
+      "feature_index": 600,
+      "threshold": 72.71969422359005,
+      "id_left": 311,
+      "id_right": 312
+    },
+    "311": {
+      "id": 311,
+      "type": "internal",
+      "feature_name": "pixel (6, 12)",
+      "feature_index": 180,
+      "threshold": 130.45990609585303,
+      "id_left": 723,
+      "id_right": 724
+    },
+    "723": {
+      "id": 723,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "724": {
+      "id": 724,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "312": {
+      "id": 312,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "310": {
+      "id": 310,
+      "type": "internal",
+      "feature_name": "pixel (19, 22)",
+      "feature_index": 554,
+      "threshold": 245.29388667796454,
+      "id_left": 641,
+      "id_right": 642
+    },
+    "641": {
+      "id": 641,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "642": {
+      "id": 642,
+      "type": "internal",
+      "feature_name": "pixel (7, 13)",
+      "feature_index": 209,
+      "threshold": 74.95569409800493,
+      "id_left": 669,
+      "id_right": 670
+    },
+    "669": {
+      "id": 669,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "670": {
+      "id": 670,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "18": {
+      "id": 18,
+      "type": "internal",
+      "feature_name": "pixel (20, 13)",
+      "feature_index": 573,
+      "threshold": 159.43219864248866,
+      "id_left": 165,
+      "id_right": 166
+    },
+    "165": {
+      "id": 165,
+      "type": "internal",
+      "feature_name": "pixel (8, 12)",
+      "feature_index": 236,
+      "threshold": 104.19818967077796,
+      "id_left": 211,
+      "id_right": 212
+    },
+    "211": {
+      "id": 211,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "212": {
+      "id": 212,
+      "type": "internal",
+      "feature_name": "pixel (16, 8)",
+      "feature_index": 456,
+      "threshold": 193.38699425728387,
+      "id_left": 411,
+      "id_right": 412
+    },
+    "411": {
+      "id": 411,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "412": {
+      "id": 412,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "166": {
+      "id": 166,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "6": {
+      "id": 6,
+      "type": "internal",
+      "feature_name": "pixel (15, 10)",
+      "feature_index": 430,
+      "threshold": 15.58338822125615,
+      "id_left": 15,
+      "id_right": 16
+    },
+    "15": {
+      "id": 15,
+      "type": "internal",
+      "feature_name": "pixel (13, 11)",
+      "feature_index": 375,
+      "threshold": 59.4423824290011,
+      "id_left": 75,
+      "id_right": 76
+    },
+    "75": {
+      "id": 75,
+      "type": "internal",
+      "feature_name": "pixel (15, 8)",
+      "feature_index": 428,
+      "threshold": 180.95766407947877,
+      "id_left": 179,
+      "id_right": 180
+    },
+    "179": {
+      "id": 179,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "180": {
+      "id": 180,
+      "type": "internal",
+      "feature_name": "pixel (9, 14)",
+      "feature_index": 266,
+      "threshold": 167.4382676311947,
+      "id_left": 181,
+      "id_right": 182
+    },
+    "181": {
+      "id": 181,
+      "type": "internal",
+      "feature_name": "pixel (14, 15)",
+      "feature_index": 407,
+      "threshold": 223.68759138448516,
+      "id_left": 305,
+      "id_right": 306
+    },
+    "305": {
+      "id": 305,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "306": {
+      "id": 306,
+      "type": "internal",
+      "feature_name": "pixel (19, 10)",
+      "feature_index": 542,
+      "threshold": 88.28936078738857,
+      "id_left": 797,
+      "id_right": 798
+    },
+    "797": {
+      "id": 797,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "798": {
+      "id": 798,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "182": {
+      "id": 182,
+      "type": "internal",
+      "feature_name": "pixel (17, 4)",
+      "feature_index": 480,
+      "threshold": 113.15760304134227,
+      "id_left": 183,
+      "id_right": 184
+    },
+    "183": {
+      "id": 183,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "184": {
+      "id": 184,
+      "type": "internal",
+      "feature_name": "pixel (10, 22)",
+      "feature_index": 302,
+      "threshold": 5.029504646095217,
+      "id_left": 557,
+      "id_right": 558
+    },
+    "557": {
+      "id": 557,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "558": {
+      "id": 558,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "76": {
+      "id": 76,
+      "type": "internal",
+      "feature_name": "pixel (8, 21)",
+      "feature_index": 245,
+      "threshold": 137.42064523856186,
+      "id_left": 99,
+      "id_right": 100
+    },
+    "99": {
+      "id": 99,
+      "type": "internal",
+      "feature_name": "pixel (10, 20)",
+      "feature_index": 300,
+      "threshold": 41.41666944204675,
+      "id_left": 139,
+      "id_right": 140
+    },
+    "139": {
+      "id": 139,
+      "type": "internal",
+      "feature_name": "pixel (11, 16)",
+      "feature_index": 324,
+      "threshold": 92.20423763720515,
+      "id_left": 161,
+      "id_right": 162
+    },
+    "161": {
+      "id": 161,
+      "type": "internal",
+      "feature_name": "pixel (24, 21)",
+      "feature_index": 693,
+      "threshold": 7.096408962782663,
+      "id_left": 459,
+      "id_right": 460
+    },
+    "459": {
+      "id": 459,
+      "type": "internal",
+      "feature_name": "pixel (19, 22)",
+      "feature_index": 554,
+      "threshold": 53.58945555453629,
+      "id_left": 515,
+      "id_right": 516
+    },
+    "515": {
+      "id": 515,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "516": {
+      "id": 516,
+      "type": "internal",
+      "feature_name": "pixel (5, 18)",
+      "feature_index": 158,
+      "threshold": 18.326087225380395,
+      "id_left": 843,
+      "id_right": 844
+    },
+    "843": {
+      "id": 843,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "844": {
+      "id": 844,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "460": {
+      "id": 460,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "162": {
+      "id": 162,
+      "type": "internal",
+      "feature_name": "pixel (8, 13)",
+      "feature_index": 237,
+      "threshold": 28.939768073120977,
+      "id_left": 229,
+      "id_right": 230
+    },
+    "229": {
+      "id": 229,
+      "type": "internal",
+      "feature_name": "pixel (21, 13)",
+      "feature_index": 601,
+      "threshold": 100.1974456222716,
+      "id_left": 451,
+      "id_right": 452
+    },
+    "451": {
+      "id": 451,
+      "type": "internal",
+      "feature_name": "pixel (19, 9)",
+      "feature_index": 541,
+      "threshold": 190.13172828831324,
+      "id_left": 591,
+      "id_right": 592
+    },
+    "591": {
+      "id": 591,
+      "type": "internal",
+      "feature_name": "pixel (25, 9)",
+      "feature_index": 709,
+      "threshold": 169.6789475482325,
+      "id_left": 957,
+      "id_right": 958
+    },
+    "957": {
+      "id": 957,
+      "type": "internal",
+      "feature_name": "pixel (16, 22)",
+      "feature_index": 470,
+      "threshold": 56.88185954321263,
+      "id_left": 959,
+      "id_right": 960
+    },
+    "959": {
+      "id": 959,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "960": {
+      "id": 960,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "958": {
+      "id": 958,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "592": {
+      "id": 592,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "452": {
+      "id": 452,
+      "type": "internal",
+      "feature_name": "pixel (12, 19)",
+      "feature_index": 355,
+      "threshold": 206.58770608091154,
+      "id_left": 453,
+      "id_right": 454
+    },
+    "453": {
+      "id": 453,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "454": {
+      "id": 454,
+      "type": "internal",
+      "feature_name": "pixel (7, 18)",
+      "feature_index": 214,
+      "threshold": 106.5253315733398,
+      "id_left": 975,
+      "id_right": 976
+    },
+    "975": {
+      "id": 975,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "976": {
+      "id": 976,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "230": {
+      "id": 230,
+      "type": "internal",
+      "feature_name": "pixel (11, 12)",
+      "feature_index": 320,
+      "threshold": 167.03496404086937,
+      "id_left": 259,
+      "id_right": 260
+    },
+    "259": {
+      "id": 259,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "260": {
+      "id": 260,
+      "type": "internal",
+      "feature_name": "pixel (23, 13)",
+      "feature_index": 657,
+      "threshold": 86.90676994477714,
+      "id_left": 395,
+      "id_right": 396
+    },
+    "395": {
+      "id": 395,
+      "type": "internal",
+      "feature_name": "pixel (15, 17)",
+      "feature_index": 437,
+      "threshold": 105.54655123760297,
+      "id_left": 539,
+      "id_right": 540
+    },
+    "539": {
+      "id": 539,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "540": {
+      "id": 540,
+      "type": "internal",
+      "feature_name": "pixel (25, 18)",
+      "feature_index": 718,
+      "threshold": 110.02800915391558,
+      "id_left": 615,
+      "id_right": 616
+    },
+    "615": {
+      "id": 615,
+      "type": "internal",
+      "feature_name": "pixel (26, 15)",
+      "feature_index": 743,
+      "threshold": 45.232918190412654,
+      "id_left": 961,
+      "id_right": 962
+    },
+    "961": {
+      "id": 961,
+      "type": "internal",
+      "feature_name": "pixel (12, 10)",
+      "feature_index": 346,
+      "threshold": 253.4434314553828,
+      "id_left": 963,
+      "id_right": 964
+    },
+    "963": {
+      "id": 963,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "964": {
+      "id": 964,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "962": {
+      "id": 962,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "616": {
+      "id": 616,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "396": {
+      "id": 396,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "140": {
+      "id": 140,
+      "type": "internal",
+      "feature_name": "pixel (6, 21)",
+      "feature_index": 189,
+      "threshold": 30.782127476195864,
+      "id_left": 439,
+      "id_right": 440
+    },
+    "439": {
+      "id": 439,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "440": {
+      "id": 440,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "100": {
+      "id": 100,
+      "type": "internal",
+      "feature_name": "pixel (17, 9)",
+      "feature_index": 485,
+      "threshold": 249.19675486590563,
+      "id_left": 365,
+      "id_right": 366
+    },
+    "365": {
+      "id": 365,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "366": {
+      "id": 366,
+      "type": "internal",
+      "feature_name": "pixel (6, 21)",
+      "feature_index": 189,
+      "threshold": 156.1571011814089,
+      "id_left": 367,
+      "id_right": 368
+    },
+    "367": {
+      "id": 367,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "368": {
+      "id": 368,
+      "type": "internal",
+      "feature_name": "pixel (14, 11)",
+      "feature_index": 403,
+      "threshold": 5.934302832900688,
+      "id_left": 547,
+      "id_right": 548
+    },
+    "547": {
+      "id": 547,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "548": {
+      "id": 548,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "16": {
+      "id": 16,
+      "type": "internal",
+      "feature_name": "pixel (14, 16)",
+      "feature_index": 408,
+      "threshold": 244.808635378633,
+      "id_left": 23,
+      "id_right": 24
+    },
+    "23": {
+      "id": 23,
+      "type": "internal",
+      "feature_name": "pixel (16, 18)",
+      "feature_index": 466,
+      "threshold": 131.34546021527865,
+      "id_left": 193,
+      "id_right": 194
+    },
+    "193": {
+      "id": 193,
+      "type": "internal",
+      "feature_name": "pixel (15, 18)",
+      "feature_index": 438,
+      "threshold": 242.60585439047117,
+      "id_left": 767,
+      "id_right": 768
+    },
+    "767": {
+      "id": 767,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "768": {
+      "id": 768,
+      "type": "internal",
+      "feature_name": "pixel (14, 18)",
+      "feature_index": 410,
+      "threshold": 214.9780353880385,
+      "id_left": 769,
+      "id_right": 770
+    },
+    "769": {
+      "id": 769,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "770": {
+      "id": 770,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "194": {
+      "id": 194,
+      "type": "internal",
+      "feature_name": "pixel (17, 14)",
+      "feature_index": 490,
+      "threshold": 58.93030611282695,
+      "id_left": 195,
+      "id_right": 196
+    },
+    "195": {
+      "id": 195,
+      "type": "internal",
+      "feature_name": "pixel (12, 3)",
+      "feature_index": 339,
+      "threshold": 89.86837923986296,
+      "id_left": 435,
+      "id_right": 436
+    },
+    "435": {
+      "id": 435,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "436": {
+      "id": 436,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "196": {
+      "id": 196,
+      "type": "internal",
+      "feature_name": "pixel (19, 8)",
+      "feature_index": 540,
+      "threshold": 8.243165578806384,
+      "id_left": 199,
+      "id_right": 200
+    },
+    "199": {
+      "id": 199,
+      "type": "internal",
+      "feature_name": "pixel (16, 23)",
+      "feature_index": 471,
+      "threshold": 149.63574968028615,
+      "id_left": 473,
+      "id_right": 474
+    },
+    "473": {
+      "id": 473,
+      "type": "internal",
+      "feature_name": "pixel (7, 8)",
+      "feature_index": 204,
+      "threshold": 122.7635328391397,
+      "id_left": 685,
+      "id_right": 686
+    },
+    "685": {
+      "id": 685,
+      "type": "internal",
+      "feature_name": "pixel (11, 23)",
+      "feature_index": 331,
+      "threshold": 214.05458887063645,
+      "id_left": 731,
+      "id_right": 732
+    },
+    "731": {
+      "id": 731,
+      "type": "internal",
+      "feature_name": "pixel (21, 7)",
+      "feature_index": 595,
+      "threshold": 221.7557083101737,
+      "id_left": 809,
+      "id_right": 810
+    },
+    "809": {
+      "id": 809,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "810": {
+      "id": 810,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "732": {
+      "id": 732,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "686": {
+      "id": 686,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "474": {
+      "id": 474,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "200": {
+      "id": 200,
+      "type": "internal",
+      "feature_name": "pixel (23, 19)",
+      "feature_index": 663,
+      "threshold": 0.34900925371284097,
+      "id_left": 429,
+      "id_right": 430
+    },
+    "429": {
+      "id": 429,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "430": {
+      "id": 430,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "24": {
+      "id": 24,
+      "type": "internal",
+      "feature_name": "pixel (20, 7)",
+      "feature_index": 567,
+      "threshold": 6.408648004945669,
+      "id_left": 37,
+      "id_right": 38
+    },
+    "37": {
+      "id": 37,
+      "type": "internal",
+      "feature_name": "pixel (8, 13)",
+      "feature_index": 237,
+      "threshold": 160.59488329132782,
+      "id_left": 53,
+      "id_right": 54
+    },
+    "53": {
+      "id": 53,
+      "type": "internal",
+      "feature_name": "pixel (3, 19)",
+      "feature_index": 103,
+      "threshold": 88.5036303398682,
+      "id_left": 163,
+      "id_right": 164
+    },
+    "163": {
+      "id": 163,
+      "type": "internal",
+      "feature_name": "pixel (26, 11)",
+      "feature_index": 739,
+      "threshold": 237.63221482170383,
+      "id_left": 177,
+      "id_right": 178
+    },
+    "177": {
+      "id": 177,
+      "type": "internal",
+      "feature_name": "pixel (25, 8)",
+      "feature_index": 708,
+      "threshold": 245.18351150685154,
+      "id_left": 189,
+      "id_right": 190
+    },
+    "189": {
+      "id": 189,
+      "type": "internal",
+      "feature_name": "pixel (19, 9)",
+      "feature_index": 541,
+      "threshold": 37.71303465716216,
+      "id_left": 243,
+      "id_right": 244
+    },
+    "243": {
+      "id": 243,
+      "type": "internal",
+      "feature_name": "pixel (26, 9)",
+      "feature_index": 737,
+      "threshold": 93.23384594555658,
+      "id_left": 493,
+      "id_right": 494
+    },
+    "493": {
+      "id": 493,
+      "type": "internal",
+      "feature_name": "pixel (26, 12)",
+      "feature_index": 740,
+      "threshold": 6.401833783090969,
+      "id_left": 495,
+      "id_right": 496
+    },
+    "495": {
+      "id": 495,
+      "type": "internal",
+      "feature_name": "pixel (22, 6)",
+      "feature_index": 622,
+      "threshold": 97.64258015791074,
+      "id_left": 575,
+      "id_right": 576
+    },
+    "575": {
+      "id": 575,
+      "type": "internal",
+      "feature_name": "pixel (9, 12)",
+      "feature_index": 264,
+      "threshold": 58.663110744051224,
+      "id_left": 607,
+      "id_right": 608
+    },
+    "607": {
+      "id": 607,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "608": {
+      "id": 608,
+      "type": "internal",
+      "feature_name": "pixel (10, 13)",
+      "feature_index": 293,
+      "threshold": 10.038407628908011,
+      "id_left": 609,
+      "id_right": 610
+    },
+    "609": {
+      "id": 609,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "610": {
+      "id": 610,
+      "type": "internal",
+      "feature_name": "pixel (14, 7)",
+      "feature_index": 399,
+      "threshold": 71.57381987272474,
+      "id_left": 611,
+      "id_right": 612
+    },
+    "611": {
+      "id": 611,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "612": {
+      "id": 612,
+      "type": "internal",
+      "feature_name": "pixel (18, 18)",
+      "feature_index": 522,
+      "threshold": 79.69686297220032,
+      "id_left": 613,
+      "id_right": 614
+    },
+    "613": {
+      "id": 613,
+      "type": "internal",
+      "feature_name": "pixel (16, 16)",
+      "feature_index": 464,
+      "threshold": 132.62207735684797,
+      "id_left": 811,
+      "id_right": 812
+    },
+    "811": {
+      "id": 811,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "812": {
+      "id": 812,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "614": {
+      "id": 614,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "576": {
+      "id": 576,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "496": {
+      "id": 496,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "494": {
+      "id": 494,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "244": {
+      "id": 244,
+      "type": "internal",
+      "feature_name": "pixel (13, 10)",
+      "feature_index": 374,
+      "threshold": 40.59629465015433,
+      "id_left": 245,
+      "id_right": 246
+    },
+    "245": {
+      "id": 245,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "246": {
+      "id": 246,
+      "type": "internal",
+      "feature_name": "pixel (17, 13)",
+      "feature_index": 489,
+      "threshold": 214.97900409855833,
+      "id_left": 293,
+      "id_right": 294
+    },
+    "293": {
+      "id": 293,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "294": {
+      "id": 294,
+      "type": "internal",
+      "feature_name": "pixel (15, 15)",
+      "feature_index": 435,
+      "threshold": 215.2825651784812,
+      "id_left": 839,
+      "id_right": 840
+    },
+    "839": {
+      "id": 839,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "840": {
+      "id": 840,
+      "type": "internal",
+      "feature_name": "pixel (5, 21)",
+      "feature_index": 161,
+      "threshold": 61.52823846625548,
+      "id_left": 993,
+      "id_right": 994
+    },
+    "993": {
+      "id": 993,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "994": {
+      "id": 994,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "190": {
+      "id": 190,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "178": {
+      "id": 178,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "164": {
+      "id": 164,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "54": {
+      "id": 54,
+      "type": "internal",
+      "feature_name": "pixel (12, 11)",
+      "feature_index": 347,
+      "threshold": 34.99796385178248,
+      "id_left": 59,
+      "id_right": 60
+    },
+    "59": {
+      "id": 59,
+      "type": "internal",
+      "feature_name": "pixel (6, 19)",
+      "feature_index": 187,
+      "threshold": 68.0953634987098,
+      "id_left": 287,
+      "id_right": 288
+    },
+    "287": {
+      "id": 287,
+      "type": "internal",
+      "feature_name": "pixel (6, 16)",
+      "feature_index": 184,
+      "threshold": 150.81895168443162,
+      "id_left": 361,
+      "id_right": 362
+    },
+    "361": {
+      "id": 361,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "362": {
+      "id": 362,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "288": {
+      "id": 288,
+      "type": "internal",
+      "feature_name": "pixel (16, 18)",
+      "feature_index": 466,
+      "threshold": 96.13414541172523,
+      "id_left": 741,
+      "id_right": 742
+    },
+    "741": {
+      "id": 741,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "742": {
+      "id": 742,
+      "type": "internal",
+      "feature_name": "pixel (18, 17)",
+      "feature_index": 521,
+      "threshold": 135.78866724660094,
+      "id_left": 971,
+      "id_right": 972
+    },
+    "971": {
+      "id": 971,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "972": {
+      "id": 972,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "60": {
+      "id": 60,
+      "type": "internal",
+      "feature_name": "pixel (16, 14)",
+      "feature_index": 462,
+      "threshold": 68.91853933405064,
+      "id_left": 111,
+      "id_right": 112
+    },
+    "111": {
+      "id": 111,
+      "type": "internal",
+      "feature_name": "pixel (6, 16)",
+      "feature_index": 184,
+      "threshold": 92.5003038567958,
+      "id_left": 413,
+      "id_right": 414
+    },
+    "413": {
+      "id": 413,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "414": {
+      "id": 414,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "112": {
+      "id": 112,
+      "type": "internal",
+      "feature_name": "pixel (21, 19)",
+      "feature_index": 607,
+      "threshold": 36.92593052374475,
+      "id_left": 343,
+      "id_right": 344
+    },
+    "343": {
+      "id": 343,
+      "type": "internal",
+      "feature_name": "pixel (26, 9)",
+      "feature_index": 737,
+      "threshold": 101.45758874782248,
+      "id_left": 443,
+      "id_right": 444
+    },
+    "443": {
+      "id": 443,
+      "type": "internal",
+      "feature_name": "pixel (26, 12)",
+      "feature_index": 740,
+      "threshold": 40.41852914514883,
+      "id_left": 523,
+      "id_right": 524
+    },
+    "523": {
+      "id": 523,
+      "type": "internal",
+      "feature_name": "pixel (11, 23)",
+      "feature_index": 331,
+      "threshold": 139.44331933485498,
+      "id_left": 715,
+      "id_right": 716
+    },
+    "715": {
+      "id": 715,
+      "type": "internal",
+      "feature_name": "pixel (14, 10)",
+      "feature_index": 402,
+      "threshold": 24.12084349622989,
+      "id_left": 717,
+      "id_right": 718
+    },
+    "717": {
+      "id": 717,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "718": {
+      "id": 718,
+      "type": "internal",
+      "feature_name": "pixel (8, 7)",
+      "feature_index": 231,
+      "threshold": 98.61523890337685,
+      "id_left": 949,
+      "id_right": 950
+    },
+    "949": {
+      "id": 949,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "950": {
+      "id": 950,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "716": {
+      "id": 716,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "524": {
+      "id": 524,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "444": {
+      "id": 444,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "344": {
+      "id": 344,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "38": {
+      "id": 38,
+      "type": "internal",
+      "feature_name": "pixel (15, 5)",
+      "feature_index": 425,
+      "threshold": 145.05427198719897,
+      "id_left": 301,
+      "id_right": 302
+    },
+    "301": {
+      "id": 301,
+      "type": "internal",
+      "feature_name": "pixel (21, 19)",
+      "feature_index": 607,
+      "threshold": 174.07117592127582,
+      "id_left": 363,
+      "id_right": 364
+    },
+    "363": {
+      "id": 363,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "364": {
+      "id": 364,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "302": {
+      "id": 302,
+      "type": "internal",
+      "feature_name": "pixel (10, 20)",
+      "feature_index": 300,
+      "threshold": 217.43206423820558,
+      "id_left": 559,
+      "id_right": 560
+    },
+    "559": {
+      "id": 559,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "560": {
+      "id": 560,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "4": {
+      "id": 4,
+      "type": "internal",
+      "feature_name": "pixel (5, 16)",
+      "feature_index": 156,
+      "threshold": 24.35628171281716,
+      "id_left": 41,
+      "id_right": 42
+    },
+    "41": {
+      "id": 41,
+      "type": "internal",
+      "feature_name": "pixel (20, 12)",
+      "feature_index": 572,
+      "threshold": 23.776822424855467,
+      "id_left": 43,
+      "id_right": 44
+    },
+    "43": {
+      "id": 43,
+      "type": "internal",
+      "feature_name": "pixel (16, 16)",
+      "feature_index": 464,
+      "threshold": 115.13911477762234,
+      "id_left": 87,
+      "id_right": 88
+    },
+    "87": {
+      "id": 87,
+      "type": "internal",
+      "feature_name": "pixel (17, 17)",
+      "feature_index": 493,
+      "threshold": 166.9096200479705,
+      "id_left": 207,
+      "id_right": 208
+    },
+    "207": {
+      "id": 207,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "208": {
+      "id": 208,
+      "type": "internal",
+      "feature_name": "pixel (15, 20)",
+      "feature_index": 440,
+      "threshold": 235.62678336893524,
+      "id_left": 257,
+      "id_right": 258
+    },
+    "257": {
+      "id": 257,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "258": {
+      "id": 258,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "88": {
+      "id": 88,
+      "type": "internal",
+      "feature_name": "pixel (22, 10)",
+      "feature_index": 626,
+      "threshold": 238.8368469634265,
+      "id_left": 173,
+      "id_right": 174
+    },
+    "173": {
+      "id": 173,
+      "type": "internal",
+      "feature_name": "pixel (6, 10)",
+      "feature_index": 178,
+      "threshold": 5.516088605167385,
+      "id_left": 269,
+      "id_right": 270
+    },
+    "269": {
+      "id": 269,
+      "type": "internal",
+      "feature_name": "pixel (3, 14)",
+      "feature_index": 98,
+      "threshold": 103.20256139533714,
+      "id_left": 431,
+      "id_right": 432
+    },
+    "431": {
+      "id": 431,
+      "type": "internal",
+      "feature_name": "pixel (15, 17)",
+      "feature_index": 437,
+      "threshold": 162.8993642786049,
+      "id_left": 743,
+      "id_right": 744
+    },
+    "743": {
+      "id": 743,
+      "type": "internal",
+      "feature_name": "pixel (7, 12)",
+      "feature_index": 208,
+      "threshold": 248.37072194012381,
+      "id_left": 745,
+      "id_right": 746
+    },
+    "745": {
+      "id": 745,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "746": {
+      "id": 746,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "744": {
+      "id": 744,
+      "type": "internal",
+      "feature_name": "pixel (20, 9)",
+      "feature_index": 569,
+      "threshold": 20.551863154653397,
+      "id_left": 919,
+      "id_right": 920
+    },
+    "919": {
+      "id": 919,
+      "type": "internal",
+      "feature_name": "pixel (4, 17)",
+      "feature_index": 129,
+      "threshold": 247.6304339070946,
+      "id_left": 921,
+      "id_right": 922
+    },
+    "921": {
+      "id": 921,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "922": {
+      "id": 922,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "920": {
+      "id": 920,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "432": {
+      "id": 432,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "270": {
+      "id": 270,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "174": {
+      "id": 174,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "44": {
+      "id": 44,
+      "type": "internal",
+      "feature_name": "pixel (23, 11)",
+      "feature_index": 655,
+      "threshold": 162.56769753180802,
+      "id_left": 105,
+      "id_right": 106
+    },
+    "105": {
+      "id": 105,
+      "type": "internal",
+      "feature_name": "pixel (7, 22)",
+      "feature_index": 218,
+      "threshold": 188.32681825073755,
+      "id_left": 349,
+      "id_right": 350
+    },
+    "349": {
+      "id": 349,
+      "type": "internal",
+      "feature_name": "pixel (24, 12)",
+      "feature_index": 684,
+      "threshold": 111.00465281680442,
+      "id_left": 407,
+      "id_right": 408
+    },
+    "407": {
+      "id": 407,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "408": {
+      "id": 408,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "350": {
+      "id": 350,
+      "type": "internal",
+      "feature_name": "pixel (21, 10)",
+      "feature_index": 598,
+      "threshold": 94.83496543710817,
+      "id_left": 383,
+      "id_right": 384
+    },
+    "383": {
+      "id": 383,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "384": {
+      "id": 384,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "106": {
+      "id": 106,
+      "type": "internal",
+      "feature_name": "pixel (14, 10)",
+      "feature_index": 402,
+      "threshold": 171.01806219248942,
+      "id_left": 225,
+      "id_right": 226
+    },
+    "225": {
+      "id": 225,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "226": {
+      "id": 226,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "42": {
+      "id": 42,
+      "type": "internal",
+      "feature_name": "pixel (5, 14)",
+      "feature_index": 154,
+      "threshold": 59.09419583114525,
+      "id_left": 119,
+      "id_right": 120
+    },
+    "119": {
+      "id": 119,
+      "type": "internal",
+      "feature_name": "pixel (21, 9)",
+      "feature_index": 597,
+      "threshold": 174.400048749242,
+      "id_left": 121,
+      "id_right": 122
+    },
+    "121": {
+      "id": 121,
+      "type": "internal",
+      "feature_name": "pixel (11, 17)",
+      "feature_index": 325,
+      "threshold": 30.843097223361532,
+      "id_left": 129,
+      "id_right": 130
+    },
+    "129": {
+      "id": 129,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "130": {
+      "id": 130,
+      "type": "internal",
+      "feature_name": "pixel (6, 13)",
+      "feature_index": 181,
+      "threshold": 61.826513554820096,
+      "id_left": 219,
+      "id_right": 220
+    },
+    "219": {
+      "id": 219,
+      "type": "internal",
+      "feature_name": "pixel (12, 14)",
+      "feature_index": 350,
+      "threshold": 29.13955030922757,
+      "id_left": 385,
+      "id_right": 386
+    },
+    "385": {
+      "id": 385,
+      "type": "internal",
+      "feature_name": "pixel (22, 10)",
+      "feature_index": 626,
+      "threshold": 206.1864201823186,
+      "id_left": 595,
+      "id_right": 596
+    },
+    "595": {
+      "id": 595,
+      "type": "internal",
+      "feature_name": "pixel (3, 12)",
+      "feature_index": 96,
+      "threshold": 56.885351793321476,
+      "id_left": 619,
+      "id_right": 620
+    },
+    "619": {
+      "id": 619,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "620": {
+      "id": 620,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "596": {
+      "id": 596,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "386": {
+      "id": 386,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "220": {
+      "id": 220,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "122": {
+      "id": 122,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "120": {
+      "id": 120,
+      "type": "internal",
+      "feature_name": "pixel (5, 17)",
+      "feature_index": 157,
+      "threshold": 238.66012248381045,
+      "id_left": 525,
+      "id_right": 526
+    },
+    "525": {
+      "id": 525,
+      "type": "internal",
+      "feature_name": "pixel (5, 13)",
+      "feature_index": 153,
+      "threshold": 184.20371008068497,
+      "id_left": 527,
+      "id_right": 528
+    },
+    "527": {
+      "id": 527,
+      "type": "internal",
+      "feature_name": "pixel (17, 14)",
+      "feature_index": 490,
+      "threshold": 41.774389965820305,
+      "id_left": 529,
+      "id_right": 530
+    },
+    "529": {
+      "id": 529,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "530": {
+      "id": 530,
+      "type": "internal",
+      "feature_name": "pixel (20, 11)",
+      "feature_index": 571,
+      "threshold": 49.11034994950069,
+      "id_left": 531,
+      "id_right": 532
+    },
+    "531": {
+      "id": 531,
+      "type": "internal",
+      "feature_name": "pixel (10, 12)",
+      "feature_index": 292,
+      "threshold": 9.02220155765405,
+      "id_left": 599,
+      "id_right": 600
+    },
+    "599": {
+      "id": 599,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "600": {
+      "id": 600,
+      "type": "internal",
+      "feature_name": "pixel (13, 20)",
+      "feature_index": 384,
+      "threshold": 82.02651974606631,
+      "id_left": 899,
+      "id_right": 900
+    },
+    "899": {
+      "id": 899,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "900": {
+      "id": 900,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "532": {
+      "id": 532,
+      "type": "internal",
+      "feature_name": "pixel (8, 24)",
+      "feature_index": 248,
+      "threshold": 11.17573125109809,
+      "id_left": 533,
+      "id_right": 534
+    },
+    "533": {
+      "id": 533,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "534": {
+      "id": 534,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "528": {
+      "id": 528,
+      "type": "internal",
+      "feature_name": "pixel (24, 18)",
+      "feature_index": 690,
+      "threshold": 220.32847627547034,
+      "id_left": 535,
+      "id_right": 536
+    },
+    "535": {
+      "id": 535,
+      "type": "internal",
+      "feature_name": "pixel (16, 5)",
+      "feature_index": 453,
+      "threshold": 209.69861292731883,
+      "id_left": 999,
+      "id_right": 1000
+    },
+    "999": {
+      "id": 999,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "1000": {
+      "id": 1000,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "536": {
+      "id": 536,
+      "type": "internal",
+      "feature_name": "pixel (6, 10)",
+      "feature_index": 178,
+      "threshold": 46.48132671438219,
+      "id_left": 537,
+      "id_right": 538
+    },
+    "537": {
+      "id": 537,
+      "type": "internal",
+      "feature_name": "pixel (21, 17)",
+      "feature_index": 605,
+      "threshold": 98.49658979498622,
+      "id_left": 967,
+      "id_right": 968
+    },
+    "967": {
+      "id": 967,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "968": {
+      "id": 968,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "538": {
+      "id": 538,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "526": {
+      "id": 526,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "2": {
+      "id": 2,
+      "type": "internal",
+      "feature_name": "pixel (14, 9)",
+      "feature_index": 401,
+      "threshold": 132.88002045959234,
+      "id_left": 9,
+      "id_right": 10
+    },
+    "9": {
+      "id": 9,
+      "type": "internal",
+      "feature_name": "pixel (22, 12)",
+      "feature_index": 628,
+      "threshold": 10.858629953981671,
+      "id_left": 61,
+      "id_right": 62
+    },
+    "61": {
+      "id": 61,
+      "type": "internal",
+      "feature_name": "pixel (7, 13)",
+      "feature_index": 209,
+      "threshold": 196.02726203902964,
+      "id_left": 63,
+      "id_right": 64
+    },
+    "63": {
+      "id": 63,
+      "type": "internal",
+      "feature_name": "pixel (12, 10)",
+      "feature_index": 346,
+      "threshold": 178.65627292015415,
+      "id_left": 65,
+      "id_right": 66
+    },
+    "65": {
+      "id": 65,
+      "type": "internal",
+      "feature_name": "pixel (14, 7)",
+      "feature_index": 399,
+      "threshold": 143.9660258190548,
+      "id_left": 73,
+      "id_right": 74
+    },
+    "73": {
+      "id": 73,
+      "type": "internal",
+      "feature_name": "pixel (13, 11)",
+      "feature_index": 375,
+      "threshold": 136.2381833634517,
+      "id_left": 153,
+      "id_right": 154
+    },
+    "153": {
+      "id": 153,
+      "type": "internal",
+      "feature_name": "pixel (14, 5)",
+      "feature_index": 397,
+      "threshold": 226.06397033252938,
+      "id_left": 209,
+      "id_right": 210
+    },
+    "209": {
+      "id": 209,
+      "type": "internal",
+      "feature_name": "pixel (26, 5)",
+      "feature_index": 733,
+      "threshold": 86.10310190641465,
+      "id_left": 489,
+      "id_right": 490
+    },
+    "489": {
+      "id": 489,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "490": {
+      "id": 490,
+      "type": "internal",
+      "feature_name": "pixel (18, 16)",
+      "feature_index": 520,
+      "threshold": 123.50912384386599,
+      "id_left": 795,
+      "id_right": 796
+    },
+    "795": {
+      "id": 795,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "796": {
+      "id": 796,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "210": {
+      "id": 210,
+      "type": "internal",
+      "feature_name": "pixel (17, 13)",
+      "feature_index": 489,
+      "threshold": 237.81684358968252,
+      "id_left": 379,
+      "id_right": 380
+    },
+    "379": {
+      "id": 379,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "380": {
+      "id": 380,
+      "type": "internal",
+      "feature_name": "pixel (12, 16)",
+      "feature_index": 352,
+      "threshold": 220.04991666649,
+      "id_left": 943,
+      "id_right": 944
+    },
+    "943": {
+      "id": 943,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "944": {
+      "id": 944,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "154": {
+      "id": 154,
+      "type": "internal",
+      "feature_name": "pixel (20, 11)",
+      "feature_index": 571,
+      "threshold": 136.0280324337203,
+      "id_left": 155,
+      "id_right": 156
+    },
+    "155": {
+      "id": 155,
+      "type": "internal",
+      "feature_name": "pixel (17, 16)",
+      "feature_index": 492,
+      "threshold": 8.14716705500482,
+      "id_left": 157,
+      "id_right": 158
+    },
+    "157": {
+      "id": 157,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "158": {
+      "id": 158,
+      "type": "internal",
+      "feature_name": "pixel (20, 15)",
+      "feature_index": 575,
+      "threshold": 122.18093931310854,
+      "id_left": 297,
+      "id_right": 298
+    },
+    "297": {
+      "id": 297,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "298": {
+      "id": 298,
+      "type": "internal",
+      "feature_name": "pixel (23, 12)",
+      "feature_index": 656,
+      "threshold": 88.21769829523643,
+      "id_left": 647,
+      "id_right": 648
+    },
+    "647": {
+      "id": 647,
+      "type": "internal",
+      "feature_name": "pixel (20, 9)",
+      "feature_index": 569,
+      "threshold": 216.845435209966,
+      "id_left": 805,
+      "id_right": 806
+    },
+    "805": {
+      "id": 805,
+      "type": "internal",
+      "feature_name": "pixel (8, 19)",
+      "feature_index": 243,
+      "threshold": 147.7382698411766,
+      "id_left": 929,
+      "id_right": 930
+    },
+    "929": {
+      "id": 929,
+      "type": "internal",
+      "feature_name": "pixel (3, 17)",
+      "feature_index": 101,
+      "threshold": 95.38986842398991,
+      "id_left": 931,
+      "id_right": 932
+    },
+    "931": {
+      "id": 931,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "932": {
+      "id": 932,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "930": {
+      "id": 930,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "806": {
+      "id": 806,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "648": {
+      "id": 648,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "156": {
+      "id": 156,
+      "type": "internal",
+      "feature_name": "pixel (22, 18)",
+      "feature_index": 634,
+      "threshold": 187.83090697966094,
+      "id_left": 553,
+      "id_right": 554
+    },
+    "553": {
+      "id": 553,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "554": {
+      "id": 554,
+      "type": "internal",
+      "feature_name": "pixel (8, 16)",
+      "feature_index": 240,
+      "threshold": 17.291147090630208,
+      "id_left": 747,
+      "id_right": 748
+    },
+    "747": {
+      "id": 747,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "748": {
+      "id": 748,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "74": {
+      "id": 74,
+      "type": "internal",
+      "feature_name": "pixel (11, 16)",
+      "feature_index": 324,
+      "threshold": 139.20222512176363,
+      "id_left": 127,
+      "id_right": 128
+    },
+    "127": {
+      "id": 127,
+      "type": "internal",
+      "feature_name": "pixel (17, 24)",
+      "feature_index": 500,
+      "threshold": 160.0638480112254,
+      "id_left": 487,
+      "id_right": 488
+    },
+    "487": {
+      "id": 487,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "488": {
+      "id": 488,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "128": {
+      "id": 128,
+      "type": "internal",
+      "feature_name": "pixel (6, 13)",
+      "feature_index": 181,
+      "threshold": 77.82363901279105,
+      "id_left": 521,
+      "id_right": 522
+    },
+    "521": {
+      "id": 521,
+      "type": "internal",
+      "feature_name": "pixel (8, 12)",
+      "feature_index": 236,
+      "threshold": 170.1899541030591,
+      "id_left": 689,
+      "id_right": 690
+    },
+    "689": {
+      "id": 689,
+      "type": "internal",
+      "feature_name": "pixel (20, 11)",
+      "feature_index": 571,
+      "threshold": 211.28029123706756,
+      "id_left": 775,
+      "id_right": 776
+    },
+    "775": {
+      "id": 775,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "776": {
+      "id": 776,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "690": {
+      "id": 690,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "522": {
+      "id": 522,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "66": {
+      "id": 66,
+      "type": "internal",
+      "feature_name": "pixel (20, 10)",
+      "feature_index": 570,
+      "threshold": 10.329628039770586,
+      "id_left": 79,
+      "id_right": 80
+    },
+    "79": {
+      "id": 79,
+      "type": "internal",
+      "feature_name": "pixel (23, 12)",
+      "feature_index": 656,
+      "threshold": 153.12926523998811,
+      "id_left": 123,
+      "id_right": 124
+    },
+    "123": {
+      "id": 123,
+      "type": "internal",
+      "feature_name": "pixel (26, 14)",
+      "feature_index": 742,
+      "threshold": 48.318045795111935,
+      "id_left": 205,
+      "id_right": 206
+    },
+    "205": {
+      "id": 205,
+      "type": "internal",
+      "feature_name": "pixel (11, 20)",
+      "feature_index": 328,
+      "threshold": 17.669052368807165,
+      "id_left": 279,
+      "id_right": 280
+    },
+    "279": {
+      "id": 279,
+      "type": "internal",
+      "feature_name": "pixel (5, 13)",
+      "feature_index": 153,
+      "threshold": 113.71634785957464,
+      "id_left": 307,
+      "id_right": 308
+    },
+    "307": {
+      "id": 307,
+      "type": "internal",
+      "feature_name": "pixel (22, 8)",
+      "feature_index": 624,
+      "threshold": 216.3956154656576,
+      "id_left": 423,
+      "id_right": 424
+    },
+    "423": {
+      "id": 423,
+      "type": "internal",
+      "feature_name": "pixel (26, 16)",
+      "feature_index": 744,
+      "threshold": 151.42473132881557,
+      "id_left": 549,
+      "id_right": 550
+    },
+    "549": {
+      "id": 549,
+      "type": "internal",
+      "feature_name": "pixel (9, 13)",
+      "feature_index": 265,
+      "threshold": 117.0801417050325,
+      "id_left": 649,
+      "id_right": 650
+    },
+    "649": {
+      "id": 649,
+      "type": "internal",
+      "feature_name": "pixel (6, 13)",
+      "feature_index": 181,
+      "threshold": 214.72574341330946,
+      "id_left": 771,
+      "id_right": 772
+    },
+    "771": {
+      "id": 771,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "772": {
+      "id": 772,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "650": {
+      "id": 650,
+      "type": "internal",
+      "feature_name": "pixel (13, 7)",
+      "feature_index": 371,
+      "threshold": 28.426842740004343,
+      "id_left": 651,
+      "id_right": 652
+    },
+    "651": {
+      "id": 651,
+      "type": "internal",
+      "feature_name": "pixel (12, 12)",
+      "feature_index": 348,
+      "threshold": 156.07040455847533,
+      "id_left": 653,
+      "id_right": 654
+    },
+    "653": {
+      "id": 653,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "654": {
+      "id": 654,
+      "type": "internal",
+      "feature_name": "pixel (14, 17)",
+      "feature_index": 409,
+      "threshold": 182.83520365731567,
+      "id_left": 655,
+      "id_right": 656
+    },
+    "655": {
+      "id": 655,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "656": {
+      "id": 656,
+      "type": "internal",
+      "feature_name": "pixel (15, 21)",
+      "feature_index": 441,
+      "threshold": 155.3047708167251,
+      "id_left": 945,
+      "id_right": 946
+    },
+    "945": {
+      "id": 945,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "946": {
+      "id": 946,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "652": {
+      "id": 652,
+      "type": "internal",
+      "feature_name": "pixel (25, 16)",
+      "feature_index": 716,
+      "threshold": 5.5151150261588,
+      "id_left": 781,
+      "id_right": 782
+    },
+    "781": {
+      "id": 781,
+      "type": "internal",
+      "feature_name": "pixel (24, 8)",
+      "feature_index": 680,
+      "threshold": 57.293477681136444,
+      "id_left": 877,
+      "id_right": 878
+    },
+    "877": {
+      "id": 877,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "878": {
+      "id": 878,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "782": {
+      "id": 782,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "550": {
+      "id": 550,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "424": {
+      "id": 424,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "308": {
+      "id": 308,
+      "type": "internal",
+      "feature_name": "pixel (15, 22)",
+      "feature_index": 442,
+      "threshold": 187.20464061582678,
+      "id_left": 477,
+      "id_right": 478
+    },
+    "477": {
+      "id": 477,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "478": {
+      "id": 478,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "280": {
+      "id": 280,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "206": {
+      "id": 206,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "124": {
+      "id": 124,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "80": {
+      "id": 80,
+      "type": "internal",
+      "feature_name": "pixel (24, 9)",
+      "feature_index": 681,
+      "threshold": 56.820144561035626,
+      "id_left": 849,
+      "id_right": 850
+    },
+    "849": {
+      "id": 849,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "850": {
+      "id": 850,
+      "type": "internal",
+      "feature_name": "pixel (5, 16)",
+      "feature_index": 156,
+      "threshold": 175.19242129996067,
+      "id_left": 851,
+      "id_right": 852
+    },
+    "851": {
+      "id": 851,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "852": {
+      "id": 852,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "64": {
+      "id": 64,
+      "type": "internal",
+      "feature_name": "pixel (11, 11)",
+      "feature_index": 319,
+      "threshold": 213.49320307536667,
+      "id_left": 141,
+      "id_right": 142
+    },
+    "141": {
+      "id": 141,
+      "type": "internal",
+      "feature_name": "pixel (7, 12)",
+      "feature_index": 208,
+      "threshold": 23.076213881408897,
+      "id_left": 499,
+      "id_right": 500
+    },
+    "499": {
+      "id": 499,
+      "type": "internal",
+      "feature_name": "pixel (14, 21)",
+      "feature_index": 413,
+      "threshold": 29.902492489154678,
+      "id_left": 501,
+      "id_right": 502
+    },
+    "501": {
+      "id": 501,
+      "type": "internal",
+      "feature_name": "pixel (13, 11)",
+      "feature_index": 375,
+      "threshold": 19.455772188704355,
+      "id_left": 505,
+      "id_right": 506
+    },
+    "505": {
+      "id": 505,
+      "type": "internal",
+      "feature_name": "pixel (15, 4)",
+      "feature_index": 424,
+      "threshold": 110.30757190906796,
+      "id_left": 571,
+      "id_right": 572
+    },
+    "571": {
+      "id": 571,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "572": {
+      "id": 572,
+      "type": "internal",
+      "feature_name": "pixel (15, 9)",
+      "feature_index": 429,
+      "threshold": 179.04872037426043,
+      "id_left": 697,
+      "id_right": 698
+    },
+    "697": {
+      "id": 697,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "698": {
+      "id": 698,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "506": {
+      "id": 506,
+      "type": "internal",
+      "feature_name": "pixel (13, 17)",
+      "feature_index": 381,
+      "threshold": 29.21734246621716,
+      "id_left": 507,
+      "id_right": 508
+    },
+    "507": {
+      "id": 507,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "508": {
+      "id": 508,
+      "type": "internal",
+      "feature_name": "pixel (10, 13)",
+      "feature_index": 293,
+      "threshold": 137.67513005187507,
+      "id_left": 509,
+      "id_right": 510
+    },
+    "509": {
+      "id": 509,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "510": {
+      "id": 510,
+      "type": "internal",
+      "feature_name": "pixel (18, 15)",
+      "feature_index": 519,
+      "threshold": 73.2365950933828,
+      "id_left": 511,
+      "id_right": 512
+    },
+    "511": {
+      "id": 511,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "512": {
+      "id": 512,
+      "type": "internal",
+      "feature_name": "pixel (14, 19)",
+      "feature_index": 411,
+      "threshold": 138.71198041537403,
+      "id_left": 925,
+      "id_right": 926
+    },
+    "925": {
+      "id": 925,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "926": {
+      "id": 926,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "502": {
+      "id": 502,
+      "type": "internal",
+      "feature_name": "pixel (7, 17)",
+      "feature_index": 213,
+      "threshold": 138.41284645414578,
+      "id_left": 503,
+      "id_right": 504
+    },
+    "503": {
+      "id": 503,
+      "type": "internal",
+      "feature_name": "pixel (19, 12)",
+      "feature_index": 544,
+      "threshold": 94.59433230552558,
+      "id_left": 513,
+      "id_right": 514
+    },
+    "513": {
+      "id": 513,
+      "type": "internal",
+      "feature_name": "pixel (9, 17)",
+      "feature_index": 269,
+      "threshold": 180.84206300128346,
+      "id_left": 907,
+      "id_right": 908
+    },
+    "907": {
+      "id": 907,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "908": {
+      "id": 908,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "514": {
+      "id": 514,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "504": {
+      "id": 504,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "500": {
+      "id": 500,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "142": {
+      "id": 142,
+      "type": "internal",
+      "feature_name": "pixel (16, 7)",
+      "feature_index": 455,
+      "threshold": 184.21412021583603,
+      "id_left": 159,
+      "id_right": 160
+    },
+    "159": {
+      "id": 159,
+      "type": "internal",
+      "feature_name": "pixel (7, 16)",
+      "feature_index": 212,
+      "threshold": 206.54913625053555,
+      "id_left": 251,
+      "id_right": 252
+    },
+    "251": {
+      "id": 251,
+      "type": "internal",
+      "feature_name": "pixel (5, 16)",
+      "feature_index": 156,
+      "threshold": 117.59663279056392,
+      "id_left": 253,
+      "id_right": 254
+    },
+    "253": {
+      "id": 253,
+      "type": "internal",
+      "feature_name": "pixel (8, 10)",
+      "feature_index": 234,
+      "threshold": 215.42503960217584,
+      "id_left": 255,
+      "id_right": 256
+    },
+    "255": {
+      "id": 255,
+      "type": "internal",
+      "feature_name": "pixel (14, 12)",
+      "feature_index": 404,
+      "threshold": 4.559297095779002,
+      "id_left": 265,
+      "id_right": 266
+    },
+    "265": {
+      "id": 265,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "266": {
+      "id": 266,
+      "type": "internal",
+      "feature_name": "pixel (13, 16)",
+      "feature_index": 380,
+      "threshold": 167.24284043640031,
+      "id_left": 335,
+      "id_right": 336
+    },
+    "335": {
+      "id": 335,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "336": {
+      "id": 336,
+      "type": "internal",
+      "feature_name": "pixel (9, 13)",
+      "feature_index": 265,
+      "threshold": 91.77188508062245,
+      "id_left": 467,
+      "id_right": 468
+    },
+    "467": {
+      "id": 467,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "468": {
+      "id": 468,
+      "type": "internal",
+      "feature_name": "pixel (13, 10)",
+      "feature_index": 374,
+      "threshold": 3.903526621360111,
+      "id_left": 673,
+      "id_right": 674
+    },
+    "673": {
+      "id": 673,
+      "type": "internal",
+      "feature_name": "pixel (18, 20)",
+      "feature_index": 524,
+      "threshold": 78.59614278590126,
+      "id_left": 675,
+      "id_right": 676
+    },
+    "675": {
+      "id": 675,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "676": {
+      "id": 676,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "674": {
+      "id": 674,
+      "type": "internal",
+      "feature_name": "pixel (4, 14)",
+      "feature_index": 126,
+      "threshold": 149.8624723520421,
+      "id_left": 699,
+      "id_right": 700
+    },
+    "699": {
+      "id": 699,
+      "type": "internal",
+      "feature_name": "pixel (25, 12)",
+      "feature_index": 712,
+      "threshold": 1.825446273118931,
+      "id_left": 901,
+      "id_right": 902
+    },
+    "901": {
+      "id": 901,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "902": {
+      "id": 902,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "700": {
+      "id": 700,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "256": {
+      "id": 256,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "254": {
+      "id": 254,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "252": {
+      "id": 252,
+      "type": "internal",
+      "feature_name": "pixel (15, 9)",
+      "feature_index": 429,
+      "threshold": 111.44678177379387,
+      "id_left": 389,
+      "id_right": 390
+    },
+    "389": {
+      "id": 389,
+      "type": "internal",
+      "feature_name": "pixel (7, 18)",
+      "feature_index": 214,
+      "threshold": 221.32077901685648,
+      "id_left": 979,
+      "id_right": 980
+    },
+    "979": {
+      "id": 979,
+      "type": "internal",
+      "feature_name": "pixel (25, 7)",
+      "feature_index": 707,
+      "threshold": 174.78569207470198,
+      "id_left": 981,
+      "id_right": 982
+    },
+    "981": {
+      "id": 981,
+      "type": "internal",
+      "feature_name": "pixel (15, 21)",
+      "feature_index": 441,
+      "threshold": 23.158985671195662,
+      "id_left": 983,
+      "id_right": 984
+    },
+    "983": {
+      "id": 983,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "984": {
+      "id": 984,
+      "type": "internal",
+      "feature_name": "pixel (22, 13)",
+      "feature_index": 629,
+      "threshold": 174.58157522118725,
+      "id_left": 985,
+      "id_right": 986
+    },
+    "985": {
+      "id": 985,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "986": {
+      "id": 986,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "982": {
+      "id": 982,
+      "type": "internal",
+      "feature_name": "pixel (17, 11)",
+      "feature_index": 487,
+      "threshold": 105.11066475189787,
+      "id_left": 987,
+      "id_right": 988
+    },
+    "987": {
+      "id": 987,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "988": {
+      "id": 988,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "980": {
+      "id": 980,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "390": {
+      "id": 390,
+      "type": "internal",
+      "feature_name": "pixel (14, 12)",
+      "feature_index": 404,
+      "threshold": 32.04558996113278,
+      "id_left": 391,
+      "id_right": 392
+    },
+    "391": {
+      "id": 391,
+      "type": "internal",
+      "feature_name": "pixel (17, 16)",
+      "feature_index": 492,
+      "threshold": 138.70276282248216,
+      "id_left": 733,
+      "id_right": 734
+    },
+    "733": {
+      "id": 733,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "734": {
+      "id": 734,
+      "type": "internal",
+      "feature_name": "pixel (5, 15)",
+      "feature_index": 155,
+      "threshold": 57.198099949023735,
+      "id_left": 735,
+      "id_right": 736
+    },
+    "735": {
+      "id": 735,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "736": {
+      "id": 736,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "392": {
+      "id": 392,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "160": {
+      "id": 160,
+      "type": "internal",
+      "feature_name": "pixel (8, 17)",
+      "feature_index": 241,
+      "threshold": 183.80937733399188,
+      "id_left": 171,
+      "id_right": 172
+    },
+    "171": {
+      "id": 171,
+      "type": "internal",
+      "feature_name": "pixel (5, 17)",
+      "feature_index": 157,
+      "threshold": 29.042747297344146,
+      "id_left": 231,
+      "id_right": 232
+    },
+    "231": {
+      "id": 231,
+      "type": "internal",
+      "feature_name": "pixel (7, 18)",
+      "feature_index": 214,
+      "threshold": 50.64428845217651,
+      "id_left": 631,
+      "id_right": 632
+    },
+    "631": {
+      "id": 631,
+      "type": "internal",
+      "feature_name": "pixel (19, 20)",
+      "feature_index": 552,
+      "threshold": 142.98935722000402,
+      "id_left": 893,
+      "id_right": 894
+    },
+    "893": {
+      "id": 893,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "894": {
+      "id": 894,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "632": {
+      "id": 632,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "232": {
+      "id": 232,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "172": {
+      "id": 172,
+      "type": "internal",
+      "feature_name": "pixel (18, 17)",
+      "feature_index": 521,
+      "threshold": 19.479326293561293,
+      "id_left": 541,
+      "id_right": 542
+    },
+    "541": {
+      "id": 541,
+      "type": "internal",
+      "feature_name": "pixel (18, 16)",
+      "feature_index": 520,
+      "threshold": 55.954909257569774,
+      "id_left": 543,
+      "id_right": 544
+    },
+    "543": {
+      "id": 543,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "544": {
+      "id": 544,
+      "type": "internal",
+      "feature_name": "pixel (17, 20)",
+      "feature_index": 496,
+      "threshold": 222.8855038238156,
+      "id_left": 969,
+      "id_right": 970
+    },
+    "969": {
+      "id": 969,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "970": {
+      "id": 970,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "542": {
+      "id": 542,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "62": {
+      "id": 62,
+      "type": "internal",
+      "feature_name": "pixel (7, 16)",
+      "feature_index": 212,
+      "threshold": 58.99330198252262,
+      "id_left": 323,
+      "id_right": 324
+    },
+    "323": {
+      "id": 323,
+      "type": "internal",
+      "feature_name": "pixel (24, 11)",
+      "feature_index": 683,
+      "threshold": 125.44641640290916,
+      "id_left": 325,
+      "id_right": 326
+    },
+    "325": {
+      "id": 325,
+      "type": "internal",
+      "feature_name": "pixel (26, 11)",
+      "feature_index": 739,
+      "threshold": 19.97511977095861,
+      "id_left": 433,
+      "id_right": 434
+    },
+    "433": {
+      "id": 433,
+      "type": "internal",
+      "feature_name": "pixel (25, 14)",
+      "feature_index": 714,
+      "threshold": 79.19666731227034,
+      "id_left": 677,
+      "id_right": 678
+    },
+    "677": {
+      "id": 677,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "678": {
+      "id": 678,
+      "type": "internal",
+      "feature_name": "pixel (15, 9)",
+      "feature_index": 429,
+      "threshold": 57.7205588518272,
+      "id_left": 679,
+      "id_right": 680
+    },
+    "679": {
+      "id": 679,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "680": {
+      "id": 680,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "434": {
+      "id": 434,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "326": {
+      "id": 326,
+      "type": "internal",
+      "feature_name": "pixel (19, 13)",
+      "feature_index": 545,
+      "threshold": 253.86627122241364,
+      "id_left": 327,
+      "id_right": 328
+    },
+    "327": {
+      "id": 327,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "328": {
+      "id": 328,
+      "type": "internal",
+      "feature_name": "pixel (9, 15)",
+      "feature_index": 267,
+      "threshold": 25.2196355234923,
+      "id_left": 329,
+      "id_right": 330
+    },
+    "329": {
+      "id": 329,
+      "type": "internal",
+      "feature_name": "pixel (6, 17)",
+      "feature_index": 185,
+      "threshold": 133.51975389454503,
+      "id_left": 331,
+      "id_right": 332
+    },
+    "331": {
+      "id": 331,
+      "type": "internal",
+      "feature_name": "pixel (8, 14)",
+      "feature_index": 238,
+      "threshold": 17.640575746838273,
+      "id_left": 787,
+      "id_right": 788
+    },
+    "787": {
+      "id": 787,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "788": {
+      "id": 788,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "332": {
+      "id": 332,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "330": {
+      "id": 330,
+      "type": "internal",
+      "feature_name": "pixel (16, 6)",
+      "feature_index": 454,
+      "threshold": 191.9784689750422,
+      "id_left": 399,
+      "id_right": 400
+    },
+    "399": {
+      "id": 399,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "400": {
+      "id": 400,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "324": {
+      "id": 324,
+      "type": "internal",
+      "feature_name": "pixel (12, 25)",
+      "feature_index": 361,
+      "threshold": 87.82898378457361,
+      "id_left": 727,
+      "id_right": 728
+    },
+    "727": {
+      "id": 727,
+      "type": "internal",
+      "feature_name": "pixel (13, 9)",
+      "feature_index": 373,
+      "threshold": 157.47766248997192,
+      "id_left": 749,
+      "id_right": 750
+    },
+    "749": {
+      "id": 749,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "750": {
+      "id": 750,
+      "type": "internal",
+      "feature_name": "pixel (18, 13)",
+      "feature_index": 517,
+      "threshold": 204.63536739798047,
+      "id_left": 751,
+      "id_right": 752
+    },
+    "751": {
+      "id": 751,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "752": {
+      "id": 752,
+      "type": "internal",
+      "feature_name": "pixel (7, 18)",
+      "feature_index": 214,
+      "threshold": 26.425314865273105,
+      "id_left": 753,
+      "id_right": 754
+    },
+    "753": {
+      "id": 753,
+      "type": "internal",
+      "feature_name": "pixel (9, 9)",
+      "feature_index": 261,
+      "threshold": 199.58471439293805,
+      "id_left": 755,
+      "id_right": 756
+    },
+    "755": {
+      "id": 755,
+      "type": "internal",
+      "feature_name": "pixel (18, 11)",
+      "feature_index": 515,
+      "threshold": 84.6902891479853,
+      "id_left": 759,
+      "id_right": 760
+    },
+    "759": {
+      "id": 759,
+      "type": "internal",
+      "feature_name": "pixel (6, 16)",
+      "feature_index": 184,
+      "threshold": 174.85758706687838,
+      "id_left": 763,
+      "id_right": 764
+    },
+    "763": {
+      "id": 763,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "764": {
+      "id": 764,
+      "type": "internal",
+      "feature_name": "pixel (21, 16)",
+      "feature_index": 604,
+      "threshold": 112.13132703543236,
+      "id_left": 815,
+      "id_right": 816
+    },
+    "815": {
+      "id": 815,
+      "type": "internal",
+      "feature_name": "pixel (8, 15)",
+      "feature_index": 239,
+      "threshold": 147.49496545293135,
+      "id_left": 941,
+      "id_right": 942
+    },
+    "941": {
+      "id": 941,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "942": {
+      "id": 942,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "816": {
+      "id": 816,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "760": {
+      "id": 760,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "756": {
+      "id": 756,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "754": {
+      "id": 754,
+      "type": "internal",
+      "feature_name": "pixel (14, 23)",
+      "feature_index": 415,
+      "threshold": 137.8708149203429,
+      "id_left": 757,
+      "id_right": 758
+    },
+    "757": {
+      "id": 757,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "758": {
+      "id": 758,
+      "type": "internal",
+      "feature_name": "pixel (14, 17)",
+      "feature_index": 409,
+      "threshold": 66.48425363073324,
+      "id_left": 761,
+      "id_right": 762
+    },
+    "761": {
+      "id": 761,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "762": {
+      "id": 762,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "728": {
+      "id": 728,
+      "type": "internal",
+      "feature_name": "pixel (25, 10)",
+      "feature_index": 710,
+      "threshold": 174.57357225686943,
+      "id_left": 729,
+      "id_right": 730
+    },
+    "729": {
+      "id": 729,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "730": {
+      "id": 730,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "10": {
+      "id": 10,
+      "type": "internal",
+      "feature_name": "pixel (16, 15)",
+      "feature_index": 463,
+      "threshold": 229.42425411633414,
+      "id_left": 11,
+      "id_right": 12
+    },
+    "11": {
+      "id": 11,
+      "type": "internal",
+      "feature_name": "pixel (22, 12)",
+      "feature_index": 628,
+      "threshold": 149.99028075020308,
+      "id_left": 81,
+      "id_right": 82
+    },
+    "81": {
+      "id": 81,
+      "type": "internal",
+      "feature_name": "pixel (7, 13)",
+      "feature_index": 209,
+      "threshold": 93.24144921882146,
+      "id_left": 83,
+      "id_right": 84
+    },
+    "83": {
+      "id": 83,
+      "type": "internal",
+      "feature_name": "pixel (20, 14)",
+      "feature_index": 574,
+      "threshold": 120.1122454111987,
+      "id_left": 85,
+      "id_right": 86
+    },
+    "85": {
+      "id": 85,
+      "type": "internal",
+      "feature_name": "pixel (23, 14)",
+      "feature_index": 658,
+      "threshold": 133.55925693109597,
+      "id_left": 109,
+      "id_right": 110
+    },
+    "109": {
+      "id": 109,
+      "type": "internal",
+      "feature_name": "pixel (13, 17)",
+      "feature_index": 381,
+      "threshold": 114.67581537537082,
+      "id_left": 277,
+      "id_right": 278
+    },
+    "277": {
+      "id": 277,
+      "type": "internal",
+      "feature_name": "pixel (13, 18)",
+      "feature_index": 382,
+      "threshold": 225.89114919346346,
+      "id_left": 397,
+      "id_right": 398
+    },
+    "397": {
+      "id": 397,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "398": {
+      "id": 398,
+      "type": "internal",
+      "feature_name": "pixel (15, 20)",
+      "feature_index": 440,
+      "threshold": 122.7920245415494,
+      "id_left": 739,
+      "id_right": 740
+    },
+    "739": {
+      "id": 739,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "740": {
+      "id": 740,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "278": {
+      "id": 278,
+      "type": "internal",
+      "feature_name": "pixel (26, 16)",
+      "feature_index": 744,
+      "threshold": 8.285507063048662,
+      "id_left": 337,
+      "id_right": 338
+    },
+    "337": {
+      "id": 337,
+      "type": "internal",
+      "feature_name": "pixel (6, 13)",
+      "feature_index": 181,
+      "threshold": 41.3173143921035,
+      "id_left": 437,
+      "id_right": 438
+    },
+    "437": {
+      "id": 437,
+      "type": "internal",
+      "feature_name": "pixel (6, 20)",
+      "feature_index": 188,
+      "threshold": 13.042128876802572,
+      "id_left": 703,
+      "id_right": 704
+    },
+    "703": {
+      "id": 703,
+      "type": "internal",
+      "feature_name": "pixel (2, 18)",
+      "feature_index": 74,
+      "threshold": 237.88628415106157,
+      "id_left": 955,
+      "id_right": 956
+    },
+    "955": {
+      "id": 955,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "956": {
+      "id": 956,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "704": {
+      "id": 704,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "438": {
+      "id": 438,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "338": {
+      "id": 338,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "110": {
+      "id": 110,
+      "type": "internal",
+      "feature_name": "pixel (17, 5)",
+      "feature_index": 481,
+      "threshold": 121.28262334097299,
+      "id_left": 445,
+      "id_right": 446
+    },
+    "445": {
+      "id": 445,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "446": {
+      "id": 446,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "86": {
+      "id": 86,
+      "type": "internal",
+      "feature_name": "pixel (18, 3)",
+      "feature_index": 507,
+      "threshold": 245.156519061493,
+      "id_left": 461,
+      "id_right": 462
+    },
+    "461": {
+      "id": 461,
+      "type": "internal",
+      "feature_name": "pixel (18, 24)",
+      "feature_index": 528,
+      "threshold": 155.76158230461255,
+      "id_left": 555,
+      "id_right": 556
+    },
+    "555": {
+      "id": 555,
+      "type": "internal",
+      "feature_name": "pixel (24, 14)",
+      "feature_index": 686,
+      "threshold": 114.96047805061586,
+      "id_left": 995,
+      "id_right": 996
+    },
+    "995": {
+      "id": 995,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "996": {
+      "id": 996,
+      "type": "internal",
+      "feature_name": "pixel (8, 16)",
+      "feature_index": 240,
+      "threshold": 30.731082440228704,
+      "id_left": 997,
+      "id_right": 998
+    },
+    "997": {
+      "id": 997,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "998": {
+      "id": 998,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "556": {
+      "id": 556,
+      "type": "internal",
+      "feature_name": "pixel (16, 23)",
+      "feature_index": 471,
+      "threshold": 241.9229666711404,
+      "id_left": 791,
+      "id_right": 792
+    },
+    "791": {
+      "id": 791,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "792": {
+      "id": 792,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "462": {
+      "id": 462,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "84": {
+      "id": 84,
+      "type": "internal",
+      "feature_name": "pixel (5, 15)",
+      "feature_index": 155,
+      "threshold": 241.7485443929902,
+      "id_left": 417,
+      "id_right": 418
+    },
+    "417": {
+      "id": 417,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "418": {
+      "id": 418,
+      "type": "internal",
+      "feature_name": "pixel (17, 16)",
+      "feature_index": 492,
+      "threshold": 95.77003493708095,
+      "id_left": 419,
+      "id_right": 420
+    },
+    "419": {
+      "id": 419,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "420": {
+      "id": 420,
+      "type": "internal",
+      "feature_name": "pixel (20, 11)",
+      "feature_index": 571,
+      "threshold": 175.12147233827108,
+      "id_left": 421,
+      "id_right": 422
+    },
+    "421": {
+      "id": 421,
+      "type": "internal",
+      "feature_name": "pixel (23, 9)",
+      "feature_index": 653,
+      "threshold": 18.397425666170857,
+      "id_left": 633,
+      "id_right": 634
+    },
+    "633": {
+      "id": 633,
+      "type": "internal",
+      "feature_name": "pixel (11, 11)",
+      "feature_index": 319,
+      "threshold": 154.40462631145706,
+      "id_left": 663,
+      "id_right": 664
+    },
+    "663": {
+      "id": 663,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "664": {
+      "id": 664,
+      "type": "internal",
+      "feature_name": "pixel (21, 20)",
+      "feature_index": 608,
+      "threshold": 82.42223989331268,
+      "id_left": 965,
+      "id_right": 966
+    },
+    "965": {
+      "id": 965,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "966": {
+      "id": 966,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "634": {
+      "id": 634,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "422": {
+      "id": 422,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "82": {
+      "id": 82,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "12": {
+      "id": 12,
+      "type": "internal",
+      "feature_name": "pixel (7, 12)",
+      "feature_index": 208,
+      "threshold": 141.84599643426296,
+      "id_left": 13,
+      "id_right": 14
+    },
+    "13": {
+      "id": 13,
+      "type": "internal",
+      "feature_name": "pixel (20, 9)",
+      "feature_index": 569,
+      "threshold": 104.1470233975663,
+      "id_left": 21,
+      "id_right": 22
+    },
+    "21": {
+      "id": 21,
+      "type": "internal",
+      "feature_name": "pixel (7, 19)",
+      "feature_index": 215,
+      "threshold": 120.88713961229061,
+      "id_left": 25,
+      "id_right": 26
+    },
+    "25": {
+      "id": 25,
+      "type": "internal",
+      "feature_name": "pixel (25, 13)",
+      "feature_index": 713,
+      "threshold": 28.18943076682716,
+      "id_left": 77,
+      "id_right": 78
+    },
+    "77": {
+      "id": 77,
+      "type": "internal",
+      "feature_name": "pixel (3, 19)",
+      "feature_index": 103,
+      "threshold": 90.45538753525139,
+      "id_left": 89,
+      "id_right": 90
+    },
+    "89": {
+      "id": 89,
+      "type": "internal",
+      "feature_name": "pixel (4, 12)",
+      "feature_index": 124,
+      "threshold": 253.7971023464562,
+      "id_left": 135,
+      "id_right": 136
+    },
+    "135": {
+      "id": 135,
+      "type": "internal",
+      "feature_name": "pixel (26, 10)",
+      "feature_index": 738,
+      "threshold": 100.66774270528357,
+      "id_left": 137,
+      "id_right": 138
+    },
+    "137": {
+      "id": 137,
+      "type": "internal",
+      "feature_name": "pixel (26, 16)",
+      "feature_index": 744,
+      "threshold": 46.88386666443379,
+      "id_left": 167,
+      "id_right": 168
+    },
+    "167": {
+      "id": 167,
+      "type": "internal",
+      "feature_name": "pixel (21, 7)",
+      "feature_index": 595,
+      "threshold": 47.985125946805404,
+      "id_left": 187,
+      "id_right": 188
+    },
+    "187": {
+      "id": 187,
+      "type": "internal",
+      "feature_name": "pixel (2, 16)",
+      "feature_index": 72,
+      "threshold": 64.4927589988768,
+      "id_left": 233,
+      "id_right": 234
+    },
+    "233": {
+      "id": 233,
+      "type": "internal",
+      "feature_name": "pixel (26, 8)",
+      "feature_index": 736,
+      "threshold": 152.58567317742188,
+      "id_left": 273,
+      "id_right": 274
+    },
+    "273": {
+      "id": 273,
+      "type": "internal",
+      "feature_name": "pixel (26, 14)",
+      "feature_index": 742,
+      "threshold": 233.60897894883948,
+      "id_left": 285,
+      "id_right": 286
+    },
+    "285": {
+      "id": 285,
+      "type": "internal",
+      "feature_name": "pixel (26, 11)",
+      "feature_index": 739,
+      "threshold": 47.98608076432072,
+      "id_left": 347,
+      "id_right": 348
+    },
+    "347": {
+      "id": 347,
+      "type": "internal",
+      "feature_name": "pixel (26, 18)",
+      "feature_index": 746,
+      "threshold": 146.3355631154662,
+      "id_left": 405,
+      "id_right": 406
+    },
+    "405": {
+      "id": 405,
+      "type": "internal",
+      "feature_name": "pixel (2, 18)",
+      "feature_index": 74,
+      "threshold": 175.31419015969811,
+      "id_left": 483,
+      "id_right": 484
+    },
+    "483": {
+      "id": 483,
+      "type": "internal",
+      "feature_name": "pixel (19, 23)",
+      "feature_index": 555,
+      "threshold": 245.2987916210195,
+      "id_left": 569,
+      "id_right": 570
+    },
+    "569": {
+      "id": 569,
+      "type": "internal",
+      "feature_name": "pixel (15, 17)",
+      "feature_index": 437,
+      "threshold": 167.390080160643,
+      "id_left": 577,
+      "id_right": 578
+    },
+    "577": {
+      "id": 577,
+      "type": "internal",
+      "feature_name": "pixel (14, 16)",
+      "feature_index": 408,
+      "threshold": 161.62746565259408,
+      "id_left": 579,
+      "id_right": 580
+    },
+    "579": {
+      "id": 579,
+      "type": "internal",
+      "feature_name": "pixel (16, 19)",
+      "feature_index": 467,
+      "threshold": 69.16966584006775,
+      "id_left": 581,
+      "id_right": 582
+    },
+    "581": {
+      "id": 581,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "582": {
+      "id": 582,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "580": {
+      "id": 580,
+      "type": "internal",
+      "feature_name": "pixel (25, 11)",
+      "feature_index": 711,
+      "threshold": 47.19642649274153,
+      "id_left": 583,
+      "id_right": 584
+    },
+    "583": {
+      "id": 583,
+      "type": "internal",
+      "feature_name": "pixel (5, 13)",
+      "feature_index": 153,
+      "threshold": 131.336165557772,
+      "id_left": 719,
+      "id_right": 720
+    },
+    "719": {
+      "id": 719,
+      "type": "internal",
+      "feature_name": "pixel (5, 20)",
+      "feature_index": 160,
+      "threshold": 133.3872139190264,
+      "id_left": 989,
+      "id_right": 990
+    },
+    "989": {
+      "id": 989,
+      "type": "internal",
+      "feature_name": "pixel (25, 12)",
+      "feature_index": 712,
+      "threshold": 193.26060437050677,
+      "id_left": 991,
+      "id_right": 992
+    },
+    "991": {
+      "id": 991,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "992": {
+      "id": 992,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "990": {
+      "id": 990,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "720": {
+      "id": 720,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "584": {
+      "id": 584,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "578": {
+      "id": 578,
+      "type": "internal",
+      "feature_name": "pixel (8, 12)",
+      "feature_index": 236,
+      "threshold": 140.4332171615368,
+      "id_left": 823,
+      "id_right": 824
+    },
+    "823": {
+      "id": 823,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "824": {
+      "id": 824,
+      "type": "internal",
+      "feature_name": "pixel (25, 16)",
+      "feature_index": 716,
+      "threshold": 242.5758889608904,
+      "id_left": 825,
+      "id_right": 826
+    },
+    "825": {
+      "id": 825,
+      "type": "internal",
+      "feature_name": "pixel (25, 15)",
+      "feature_index": 715,
+      "threshold": 216.13631809183224,
+      "id_left": 829,
+      "id_right": 830
+    },
+    "829": {
+      "id": 829,
+      "type": "internal",
+      "feature_name": "pixel (5, 20)",
+      "feature_index": 160,
+      "threshold": 4.848926342022105,
+      "id_left": 831,
+      "id_right": 832
+    },
+    "831": {
+      "id": 831,
+      "type": "internal",
+      "feature_name": "pixel (3, 18)",
+      "feature_index": 102,
+      "threshold": 94.54363459467126,
+      "id_left": 835,
+      "id_right": 836
+    },
+    "835": {
+      "id": 835,
+      "type": "internal",
+      "feature_name": "pixel (10, 11)",
+      "feature_index": 291,
+      "threshold": 150.89611461893475,
+      "id_left": 951,
+      "id_right": 952
+    },
+    "951": {
+      "id": 951,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "952": {
+      "id": 952,
+      "type": "internal",
+      "feature_name": "pixel (9, 8)",
+      "feature_index": 260,
+      "threshold": 186.05349808514748,
+      "id_left": 953,
+      "id_right": 954
+    },
+    "953": {
+      "id": 953,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "954": {
+      "id": 954,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "836": {
+      "id": 836,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "832": {
+      "id": 832,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "830": {
+      "id": 830,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "826": {
+      "id": 826,
+      "type": "internal",
+      "feature_name": "pixel (12, 8)",
+      "feature_index": 344,
+      "threshold": 211.86883358139025,
+      "id_left": 827,
+      "id_right": 828
+    },
+    "827": {
+      "id": 827,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "828": {
+      "id": 828,
+      "type": "internal",
+      "feature_name": "pixel (13, 19)",
+      "feature_index": 383,
+      "threshold": 50.90354747180992,
+      "id_left": 833,
+      "id_right": 834
+    },
+    "833": {
+      "id": 833,
+      "type": "internal",
+      "feature_name": "pixel (12, 13)",
+      "feature_index": 349,
+      "threshold": 196.43297826239512,
+      "id_left": 837,
+      "id_right": 838
+    },
+    "837": {
+      "id": 837,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "838": {
+      "id": 838,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "834": {
+      "id": 834,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "570": {
+      "id": 570,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "484": {
+      "id": 484,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "406": {
+      "id": 406,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "348": {
+      "id": 348,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "286": {
+      "id": 286,
+      "type": "internal",
+      "feature_name": "pixel (15, 7)",
+      "feature_index": 427,
+      "threshold": 28.60026080328983,
+      "id_left": 497,
+      "id_right": 498
+    },
+    "497": {
+      "id": 497,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "498": {
+      "id": 498,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "274": {
+      "id": 274,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "234": {
+      "id": 234,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "188": {
+      "id": 188,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "168": {
+      "id": 168,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "138": {
+      "id": 138,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "136": {
+      "id": 136,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "90": {
+      "id": 90,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "78": {
+      "id": 78,
+      "type": "internal",
+      "feature_name": "pixel (8, 18)",
+      "feature_index": 242,
+      "threshold": 226.18466990589383,
+      "id_left": 113,
+      "id_right": 114
+    },
+    "113": {
+      "id": 113,
+      "type": "internal",
+      "feature_name": "pixel (8, 11)",
+      "feature_index": 235,
+      "threshold": 124.39271418116647,
+      "id_left": 425,
+      "id_right": 426
+    },
+    "425": {
+      "id": 425,
+      "type": "internal",
+      "feature_name": "pixel (16, 14)",
+      "feature_index": 462,
+      "threshold": 230.32745282646616,
+      "id_left": 643,
+      "id_right": 644
+    },
+    "643": {
+      "id": 643,
+      "type": "internal",
+      "feature_name": "pixel (14, 19)",
+      "feature_index": 411,
+      "threshold": 171.74558409803808,
+      "id_left": 645,
+      "id_right": 646
+    },
+    "645": {
+      "id": 645,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "646": {
+      "id": 646,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "644": {
+      "id": 644,
+      "type": "internal",
+      "feature_name": "pixel (19, 14)",
+      "feature_index": 546,
+      "threshold": 5.5664836385131276,
+      "id_left": 977,
+      "id_right": 978
+    },
+    "977": {
+      "id": 977,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "978": {
+      "id": 978,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "426": {
+      "id": 426,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "114": {
+      "id": 114,
+      "type": "internal",
+      "feature_name": "pixel (6, 18)",
+      "feature_index": 186,
+      "threshold": 16.720627297982865,
+      "id_left": 381,
+      "id_right": 382
+    },
+    "381": {
+      "id": 381,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "382": {
+      "id": 382,
+      "type": "internal",
+      "feature_name": "pixel (16, 11)",
+      "feature_index": 459,
+      "threshold": 195.40324277961778,
+      "id_left": 601,
+      "id_right": 602
+    },
+    "601": {
+      "id": 601,
+      "type": "internal",
+      "feature_name": "pixel (14, 7)",
+      "feature_index": 399,
+      "threshold": 247.56609279083372,
+      "id_left": 821,
+      "id_right": 822
+    },
+    "821": {
+      "id": 821,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "822": {
+      "id": 822,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "602": {
+      "id": 602,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "26": {
+      "id": 26,
+      "type": "internal",
+      "feature_name": "pixel (16, 19)",
+      "feature_index": 467,
+      "threshold": 219.8898578551085,
+      "id_left": 33,
+      "id_right": 34
+    },
+    "33": {
+      "id": 33,
+      "type": "internal",
+      "feature_name": "pixel (7, 17)",
+      "feature_index": 213,
+      "threshold": 7.694702890093765,
+      "id_left": 71,
+      "id_right": 72
+    },
+    "71": {
+      "id": 71,
+      "type": "internal",
+      "feature_name": "pixel (9, 16)",
+      "feature_index": 268,
+      "threshold": 19.060473462594892,
+      "id_left": 313,
+      "id_right": 314
+    },
+    "313": {
+      "id": 313,
+      "type": "internal",
+      "feature_name": "pixel (10, 13)",
+      "feature_index": 293,
+      "threshold": 249.13800823694933,
+      "id_left": 551,
+      "id_right": 552
+    },
+    "551": {
+      "id": 551,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "552": {
+      "id": 552,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "314": {
+      "id": 314,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "72": {
+      "id": 72,
+      "type": "internal",
+      "feature_name": "pixel (8, 13)",
+      "feature_index": 237,
+      "threshold": 10.352255588095755,
+      "id_left": 91,
+      "id_right": 92
+    },
+    "91": {
+      "id": 91,
+      "type": "internal",
+      "feature_name": "pixel (22, 16)",
+      "feature_index": 632,
+      "threshold": 241.19743514628962,
+      "id_left": 227,
+      "id_right": 228
+    },
+    "227": {
+      "id": 227,
+      "type": "internal",
+      "feature_name": "pixel (11, 14)",
+      "feature_index": 322,
+      "threshold": 185.04308195321033,
+      "id_left": 427,
+      "id_right": 428
+    },
+    "427": {
+      "id": 427,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "428": {
+      "id": 428,
+      "type": "internal",
+      "feature_name": "pixel (15, 7)",
+      "feature_index": 427,
+      "threshold": 160.73331413824732,
+      "id_left": 625,
+      "id_right": 626
+    },
+    "625": {
+      "id": 625,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "626": {
+      "id": 626,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "228": {
+      "id": 228,
+      "type": "internal",
+      "feature_name": "pixel (6, 14)",
+      "feature_index": 182,
+      "threshold": 37.81144973254364,
+      "id_left": 441,
+      "id_right": 442
+    },
+    "441": {
+      "id": 441,
+      "type": "internal",
+      "feature_name": "pixel (22, 11)",
+      "feature_index": 627,
+      "threshold": 46.026941990026714,
+      "id_left": 913,
+      "id_right": 914
+    },
+    "913": {
+      "id": 913,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "914": {
+      "id": 914,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "442": {
+      "id": 442,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "92": {
+      "id": 92,
+      "type": "internal",
+      "feature_name": "pixel (9, 6)",
+      "feature_index": 258,
+      "threshold": 86.54761179189552,
+      "id_left": 409,
+      "id_right": 410
+    },
+    "409": {
+      "id": 409,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "410": {
+      "id": 410,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "34": {
+      "id": 34,
+      "type": "internal",
+      "feature_name": "pixel (8, 11)",
+      "feature_index": 235,
+      "threshold": 60.90810342966956,
+      "id_left": 131,
+      "id_right": 132
+    },
+    "131": {
+      "id": 131,
+      "type": "internal",
+      "feature_name": "pixel (10, 18)",
+      "feature_index": 298,
+      "threshold": 24.084859189616918,
+      "id_left": 185,
+      "id_right": 186
+    },
+    "185": {
+      "id": 185,
+      "type": "internal",
+      "feature_name": "pixel (16, 23)",
+      "feature_index": 471,
+      "threshold": 184.473895651509,
+      "id_left": 201,
+      "id_right": 202
+    },
+    "201": {
+      "id": 201,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "202": {
+      "id": 202,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "186": {
+      "id": 186,
+      "type": "internal",
+      "feature_name": "pixel (8, 22)",
+      "feature_index": 246,
+      "threshold": 197.95965974822624,
+      "id_left": 617,
+      "id_right": 618
+    },
+    "617": {
+      "id": 617,
+      "type": "internal",
+      "feature_name": "pixel (21, 8)",
+      "feature_index": 596,
+      "threshold": 151.88118219230378,
+      "id_left": 909,
+      "id_right": 910
+    },
+    "909": {
+      "id": 909,
+      "type": "internal",
+      "feature_name": "pixel (26, 12)",
+      "feature_index": 740,
+      "threshold": 80.43767929563191,
+      "id_left": 911,
+      "id_right": 912
+    },
+    "911": {
+      "id": 911,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "912": {
+      "id": 912,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "910": {
+      "id": 910,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "618": {
+      "id": 618,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "132": {
+      "id": 132,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "22": {
+      "id": 22,
+      "type": "internal",
+      "feature_name": "pixel (24, 8)",
+      "feature_index": 680,
+      "threshold": 254.95018692917665,
+      "id_left": 107,
+      "id_right": 108
+    },
+    "107": {
+      "id": 107,
+      "type": "internal",
+      "feature_name": "pixel (21, 11)",
+      "feature_index": 599,
+      "threshold": 77.86045381234048,
+      "id_left": 267,
+      "id_right": 268
+    },
+    "267": {
+      "id": 267,
+      "type": "internal",
+      "feature_name": "pixel (12, 10)",
+      "feature_index": 346,
+      "threshold": 228.94649957723286,
+      "id_left": 351,
+      "id_right": 352
+    },
+    "351": {
+      "id": 351,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "352": {
+      "id": 352,
+      "type": "internal",
+      "feature_name": "pixel (15, 20)",
+      "feature_index": 440,
+      "threshold": 237.94186376870695,
+      "id_left": 353,
+      "id_right": 354
+    },
+    "353": {
+      "id": 353,
+      "type": "internal",
+      "feature_name": "pixel (22, 16)",
+      "feature_index": 632,
+      "threshold": 122.10651769400877,
+      "id_left": 403,
+      "id_right": 404
+    },
+    "403": {
+      "id": 403,
+      "type": "internal",
+      "feature_name": "pixel (24, 12)",
+      "feature_index": 684,
+      "threshold": 140.61102197068325,
+      "id_left": 707,
+      "id_right": 708
+    },
+    "707": {
+      "id": 707,
+      "type": "internal",
+      "feature_name": "pixel (4, 20)",
+      "feature_index": 132,
+      "threshold": 92.14141180838524,
+      "id_left": 725,
+      "id_right": 726
+    },
+    "725": {
+      "id": 725,
+      "type": "internal",
+      "feature_name": "pixel (20, 19)",
+      "feature_index": 579,
+      "threshold": 102.25922389526815,
+      "id_left": 841,
+      "id_right": 842
+    },
+    "841": {
+      "id": 841,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "842": {
+      "id": 842,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "726": {
+      "id": 726,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "708": {
+      "id": 708,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "404": {
+      "id": 404,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "354": {
+      "id": 354,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "268": {
+      "id": 268,
+      "type": "internal",
+      "feature_name": "pixel (4, 25)",
+      "feature_index": 137,
+      "threshold": 25.8173880986019,
+      "id_left": 479,
+      "id_right": 480
+    },
+    "479": {
+      "id": 479,
+      "type": "internal",
+      "feature_name": "pixel (14, 6)",
+      "feature_index": 398,
+      "threshold": 117.12950260011922,
+      "id_left": 657,
+      "id_right": 658
+    },
+    "657": {
+      "id": 657,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "658": {
+      "id": 658,
+      "type": "internal",
+      "feature_name": "pixel (18, 17)",
+      "feature_index": 521,
+      "threshold": 136.79339330261266,
+      "id_left": 659,
+      "id_right": 660
+    },
+    "659": {
+      "id": 659,
+      "type": "internal",
+      "feature_name": "pixel (22, 12)",
+      "feature_index": 628,
+      "threshold": 86.50491407676829,
+      "id_left": 667,
+      "id_right": 668
+    },
+    "667": {
+      "id": 667,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "668": {
+      "id": 668,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "660": {
+      "id": 660,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "480": {
+      "id": 480,
+      "type": "internal",
+      "feature_name": "pixel (15, 14)",
+      "feature_index": 434,
+      "threshold": 215.7540550412396,
+      "id_left": 847,
+      "id_right": 848
+    },
+    "847": {
+      "id": 847,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "848": {
+      "id": 848,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "108": {
+      "id": 108,
+      "type": "internal",
+      "feature_name": "pixel (6, 19)",
+      "feature_index": 187,
+      "threshold": 246.61966973758288,
+      "id_left": 145,
+      "id_right": 146
+    },
+    "145": {
+      "id": 145,
+      "type": "internal",
+      "feature_name": "pixel (9, 17)",
+      "feature_index": 269,
+      "threshold": 78.75352784700391,
+      "id_left": 573,
+      "id_right": 574
+    },
+    "573": {
+      "id": 573,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "574": {
+      "id": 574,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "146": {
+      "id": 146,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "14": {
+      "id": 14,
+      "type": "internal",
+      "feature_name": "pixel (7, 16)",
+      "feature_index": 212,
+      "threshold": 99.02042731131446,
+      "id_left": 29,
+      "id_right": 30
+    },
+    "29": {
+      "id": 29,
+      "type": "internal",
+      "feature_name": "pixel (4, 16)",
+      "feature_index": 128,
+      "threshold": 56.65259160178368,
+      "id_left": 39,
+      "id_right": 40
+    },
+    "39": {
+      "id": 39,
+      "type": "internal",
+      "feature_name": "pixel (7, 10)",
+      "feature_index": 206,
+      "threshold": 247.76510948676855,
+      "id_left": 47,
+      "id_right": 48
+    },
+    "47": {
+      "id": 47,
+      "type": "internal",
+      "feature_name": "pixel (8, 16)",
+      "feature_index": 240,
+      "threshold": 156.3939908013651,
+      "id_left": 117,
+      "id_right": 118
+    },
+    "117": {
+      "id": 117,
+      "type": "internal",
+      "feature_name": "pixel (6, 17)",
+      "feature_index": 185,
+      "threshold": 146.50429911748705,
+      "id_left": 221,
+      "id_right": 222
+    },
+    "221": {
+      "id": 221,
+      "type": "internal",
+      "feature_name": "pixel (3, 14)",
+      "feature_index": 98,
+      "threshold": 0.9134468789740684,
+      "id_left": 563,
+      "id_right": 564
+    },
+    "563": {
+      "id": 563,
+      "type": "internal",
+      "feature_name": "pixel (14, 17)",
+      "feature_index": 409,
+      "threshold": 99.43715106902512,
+      "id_left": 565,
+      "id_right": 566
+    },
+    "565": {
+      "id": 565,
+      "type": "internal",
+      "feature_name": "pixel (16, 20)",
+      "feature_index": 468,
+      "threshold": 161.55515458274408,
+      "id_left": 567,
+      "id_right": 568
+    },
+    "567": {
+      "id": 567,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "568": {
+      "id": 568,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "566": {
+      "id": 566,
+      "type": "internal",
+      "feature_name": "pixel (25, 17)",
+      "feature_index": 717,
+      "threshold": 178.993586757683,
+      "id_left": 875,
+      "id_right": 876
+    },
+    "875": {
+      "id": 875,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "876": {
+      "id": 876,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "564": {
+      "id": 564,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "222": {
+      "id": 222,
+      "type": "internal",
+      "feature_name": "pixel (9, 15)",
+      "feature_index": 267,
+      "threshold": 70.43440256288015,
+      "id_left": 471,
+      "id_right": 472
+    },
+    "471": {
+      "id": 471,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "472": {
+      "id": 472,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "118": {
+      "id": 118,
+      "type": "internal",
+      "feature_name": "pixel (16, 8)",
+      "feature_index": 456,
+      "threshold": 101.81926058457199,
+      "id_left": 249,
+      "id_right": 250
+    },
+    "249": {
+      "id": 249,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "250": {
+      "id": 250,
+      "type": "internal",
+      "feature_name": "pixel (12, 19)",
+      "feature_index": 355,
+      "threshold": 104.81692448249875,
+      "id_left": 457,
+      "id_right": 458
+    },
+    "457": {
+      "id": 457,
+      "type": "internal",
+      "feature_name": "pixel (12, 10)",
+      "feature_index": 346,
+      "threshold": 195.609840543759,
+      "id_left": 705,
+      "id_right": 706
+    },
+    "705": {
+      "id": 705,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "706": {
+      "id": 706,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "458": {
+      "id": 458,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "48": {
+      "id": 48,
+      "type": "internal",
+      "feature_name": "pixel (8, 15)",
+      "feature_index": 239,
+      "threshold": 106.31809425601647,
+      "id_left": 281,
+      "id_right": 282
+    },
+    "281": {
+      "id": 281,
+      "type": "internal",
+      "feature_name": "pixel (10, 17)",
+      "feature_index": 297,
+      "threshold": 140.18857572003668,
+      "id_left": 491,
+      "id_right": 492
+    },
+    "491": {
+      "id": 491,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "492": {
+      "id": 492,
+      "type": "internal",
+      "feature_name": "pixel (20, 14)",
+      "feature_index": 574,
+      "threshold": 220.73816126712512,
+      "id_left": 765,
+      "id_right": 766
+    },
+    "765": {
+      "id": 765,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "766": {
+      "id": 766,
+      "type": "internal",
+      "feature_name": "pixel (19, 17)",
+      "feature_index": 549,
+      "threshold": 134.73311594907804,
+      "id_left": 947,
+      "id_right": 948
+    },
+    "947": {
+      "id": 947,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "948": {
+      "id": 948,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "282": {
+      "id": 282,
+      "type": "internal",
+      "feature_name": "pixel (7, 13)",
+      "feature_index": 209,
+      "threshold": 239.21111322437,
+      "id_left": 375,
+      "id_right": 376
+    },
+    "375": {
+      "id": 375,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "376": {
+      "id": 376,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "40": {
+      "id": 40,
+      "type": "internal",
+      "feature_name": "pixel (20, 23)",
+      "feature_index": 583,
+      "threshold": 143.2692868929679,
+      "id_left": 415,
+      "id_right": 416
+    },
+    "415": {
+      "id": 415,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "416": {
+      "id": 416,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "30": {
+      "id": 30,
+      "type": "internal",
+      "feature_name": "pixel (7, 14)",
+      "feature_index": 210,
+      "threshold": 252.77869738069302,
+      "id_left": 45,
+      "id_right": 46
+    },
+    "45": {
+      "id": 45,
+      "type": "internal",
+      "feature_name": "pixel (11, 15)",
+      "feature_index": 323,
+      "threshold": 210.1349521824787,
+      "id_left": 125,
+      "id_right": 126
+    },
+    "125": {
+      "id": 125,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "126": {
+      "id": 126,
+      "type": "internal",
+      "feature_name": "pixel (10, 11)",
+      "feature_index": 291,
+      "threshold": 109.17391924614735,
+      "id_left": 289,
+      "id_right": 290
+    },
+    "289": {
+      "id": 289,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "290": {
+      "id": 290,
+      "type": "internal",
+      "feature_name": "pixel (10, 19)",
+      "feature_index": 299,
+      "threshold": 105.03810669530095,
+      "id_left": 889,
+      "id_right": 890
+    },
+    "889": {
+      "id": 889,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "890": {
+      "id": 890,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "46": {
+      "id": 46,
+      "type": "internal",
+      "feature_name": "pixel (15, 22)",
+      "feature_index": 442,
+      "threshold": 248.2901651939797,
+      "id_left": 93,
+      "id_right": 94
+    },
+    "93": {
+      "id": 93,
+      "type": "internal",
+      "feature_name": "pixel (11, 12)",
+      "feature_index": 320,
+      "threshold": 43.69824763326824,
+      "id_left": 147,
+      "id_right": 148
+    },
+    "147": {
+      "id": 147,
+      "type": "internal",
+      "feature_name": "pixel (13, 4)",
+      "feature_index": 368,
+      "threshold": 183.49825264117598,
+      "id_left": 447,
+      "id_right": 448
+    },
+    "447": {
+      "id": 447,
+      "type": "internal",
+      "feature_name": "pixel (14, 22)",
+      "feature_index": 414,
+      "threshold": 166.95656664760622,
+      "id_left": 817,
+      "id_right": 818
+    },
+    "817": {
+      "id": 817,
+      "type": "internal",
+      "feature_name": "pixel (16, 20)",
+      "feature_index": 468,
+      "threshold": 23.560663779992918,
+      "id_left": 879,
+      "id_right": 880
+    },
+    "879": {
+      "id": 879,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "880": {
+      "id": 880,
+      "type": "internal",
+      "feature_name": "pixel (8, 23)",
+      "feature_index": 247,
+      "threshold": 238.70133614107098,
+      "id_left": 881,
+      "id_right": 882
+    },
+    "881": {
+      "id": 881,
+      "type": "internal",
+      "feature_name": "pixel (15, 18)",
+      "feature_index": 438,
+      "threshold": 78.59970865705968,
+      "id_left": 885,
+      "id_right": 886
+    },
+    "885": {
+      "id": 885,
+      "type": "internal",
+      "feature_name": "pixel (10, 14)",
+      "feature_index": 294,
+      "threshold": 72.30349804382003,
+      "id_left": 887,
+      "id_right": 888
+    },
+    "887": {
+      "id": 887,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "888": {
+      "id": 888,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "886": {
+      "id": 886,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "882": {
+      "id": 882,
+      "type": "internal",
+      "feature_name": "pixel (7, 21)",
+      "feature_index": 217,
+      "threshold": 132.99642495717686,
+      "id_left": 883,
+      "id_right": 884
+    },
+    "883": {
+      "id": 883,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "884": {
+      "id": 884,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "818": {
+      "id": 818,
+      "type": "internal",
+      "feature_name": "pixel (10, 15)",
+      "feature_index": 295,
+      "threshold": 137.7226846188878,
+      "id_left": 819,
+      "id_right": 820
+    },
+    "819": {
+      "id": 819,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "820": {
+      "id": 820,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "448": {
+      "id": 448,
+      "type": "internal",
+      "feature_name": "pixel (8, 9)",
+      "feature_index": 233,
+      "threshold": 98.58632661103566,
+      "id_left": 449,
+      "id_right": 450
+    },
+    "449": {
+      "id": 449,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "450": {
+      "id": 450,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "148": {
+      "id": 148,
+      "type": "internal",
+      "feature_name": "pixel (7, 18)",
+      "feature_index": 214,
+      "threshold": 118.87904758978591,
+      "id_left": 149,
+      "id_right": 150
+    },
+    "149": {
+      "id": 149,
+      "type": "internal",
+      "feature_name": "pixel (20, 18)",
+      "feature_index": 578,
+      "threshold": 58.658997108535374,
+      "id_left": 151,
+      "id_right": 152
+    },
+    "151": {
+      "id": 151,
+      "type": "internal",
+      "feature_name": "pixel (17, 13)",
+      "feature_index": 489,
+      "threshold": 196.7116000930367,
+      "id_left": 175,
+      "id_right": 176
+    },
+    "175": {
+      "id": 175,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "176": {
+      "id": 176,
+      "type": "internal",
+      "feature_name": "pixel (19, 9)",
+      "feature_index": 541,
+      "threshold": 130.8493436364687,
+      "id_left": 333,
+      "id_right": 334
+    },
+    "333": {
+      "id": 333,
+      "type": "internal",
+      "feature_name": "pixel (10, 18)",
+      "feature_index": 298,
+      "threshold": 167.33246397102832,
+      "id_left": 359,
+      "id_right": 360
+    },
+    "359": {
+      "id": 359,
+      "type": "internal",
+      "feature_name": "pixel (18, 16)",
+      "feature_index": 520,
+      "threshold": 75.94963324533293,
+      "id_left": 779,
+      "id_right": 780
+    },
+    "779": {
+      "id": 779,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "780": {
+      "id": 780,
+      "type": "internal",
+      "feature_name": "pixel (25, 15)",
+      "feature_index": 715,
+      "threshold": 158.82578799446384,
+      "id_left": 895,
+      "id_right": 896
+    },
+    "895": {
+      "id": 895,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "896": {
+      "id": 896,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "360": {
+      "id": 360,
+      "type": "internal",
+      "feature_name": "pixel (6, 19)",
+      "feature_index": 187,
+      "threshold": 188.00487268856023,
+      "id_left": 519,
+      "id_right": 520
+    },
+    "519": {
+      "id": 519,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "520": {
+      "id": 520,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "334": {
+      "id": 334,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "152": {
+      "id": 152,
+      "type": "internal",
+      "feature_name": "pixel (24, 19)",
+      "feature_index": 691,
+      "threshold": 186.67663638558082,
+      "id_left": 235,
+      "id_right": 236
+    },
+    "235": {
+      "id": 235,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "236": {
+      "id": 236,
+      "type": "internal",
+      "feature_name": "pixel (8, 17)",
+      "feature_index": 241,
+      "threshold": 195.61076591285448,
+      "id_left": 401,
+      "id_right": 402
+    },
+    "401": {
+      "id": 401,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "402": {
+      "id": 402,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "150": {
+      "id": 150,
+      "type": "internal",
+      "feature_name": "pixel (22, 13)",
+      "feature_index": 629,
+      "threshold": 91.5271541064266,
+      "id_left": 369,
+      "id_right": 370
+    },
+    "369": {
+      "id": 369,
+      "type": "internal",
+      "feature_name": "pixel (8, 19)",
+      "feature_index": 243,
+      "threshold": 60.068731913375075,
+      "id_left": 371,
+      "id_right": 372
+    },
+    "371": {
+      "id": 371,
+      "type": "internal",
+      "feature_name": "pixel (17, 7)",
+      "feature_index": 483,
+      "threshold": 166.14032639010824,
+      "id_left": 373,
+      "id_right": 374
+    },
+    "373": {
+      "id": 373,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "374": {
+      "id": 374,
+      "type": "internal",
+      "feature_name": "pixel (14, 13)",
+      "feature_index": 405,
+      "threshold": 136.1801255662833,
+      "id_left": 799,
+      "id_right": 800
+    },
+    "799": {
+      "id": 799,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "800": {
+      "id": 800,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "372": {
+      "id": 372,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "370": {
+      "id": 370,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "94": {
+      "id": 94,
+      "type": "internal",
+      "feature_name": "pixel (21, 11)",
+      "feature_index": 599,
+      "threshold": 170.7773751512996,
+      "id_left": 95,
+      "id_right": 96
+    },
+    "95": {
+      "id": 95,
+      "type": "internal",
+      "feature_name": "pixel (11, 11)",
+      "feature_index": 319,
+      "threshold": 199.67961738802475,
+      "id_left": 143,
+      "id_right": 144
+    },
+    "143": {
+      "id": 143,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "144": {
+      "id": 144,
+      "type": "internal",
+      "feature_name": "pixel (3, 17)",
+      "feature_index": 101,
+      "threshold": 59.55605891046862,
+      "id_left": 629,
+      "id_right": 630
+    },
+    "629": {
+      "id": 629,
+      "type": "internal",
+      "feature_name": "pixel (11, 22)",
+      "feature_index": 330,
+      "threshold": 52.95089791899123,
+      "id_left": 777,
+      "id_right": 778
+    },
+    "777": {
+      "id": 777,
+      "type": "leaf",
+      "class": "not 4"
+    },
+    "778": {
+      "id": 778,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "630": {
+      "id": 630,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "96": {
+      "id": 96,
+      "type": "internal",
+      "feature_name": "pixel (13, 26)",
+      "feature_index": 390,
+      "threshold": 207.84689878246138,
+      "id_left": 377,
+      "id_right": 378
+    },
+    "377": {
+      "id": 377,
+      "type": "leaf",
+      "class": "is 4"
+    },
+    "378": {
+      "id": 378,
+      "type": "leaf",
+      "class": "not 4"
+    }
+  },
+  "accuracy": 0.9705
+}

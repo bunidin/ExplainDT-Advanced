@@ -1,0 +1,9 @@
+pytest
+argparse
+scikit-learn
+matplotlib
+pandas
+typer
+seaborn
+python-mnist
+pandas
