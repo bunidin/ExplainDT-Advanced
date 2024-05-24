@@ -29,4 +29,4 @@ python3 GUI_byBuni.py
 
 ---
 
-The rest of our work is ran in the same way as in the ReadMe [here](https://github.com/DiegoEmilio01/A-Symbolic-Language-for-Interpreting-Decision-Trees).
+The rest of our work is ran in the same way as described in the ReadMe [here](https://github.com/DiegoEmilio01/A-Symbolic-Language-for-Interpreting-Decision-Trees).
