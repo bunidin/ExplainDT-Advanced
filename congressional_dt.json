@@ -1,0 +1,246 @@
+{
+  "feature_names": [
+    "handicappedInfants",
+    "waterCostSharing",
+    "adoptionBudgetRes",
+    "physicianFeeFreeze",
+    "aidElSalvador",
+    "religiousGroupsSchools",
+    "antiSatelliteTestBan",
+    "aidNicaraguan",
+    "supportsMxMissile",
+    "supportsImmigration",
+    "synFuelsCutback",
+    "educationSpending",
+    "superfundRightSue",
+    "crime",
+    "dutyFreeExports",
+    "expAdminSouthAfrica"
+  ],
+  "feature_types": [
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean",
+    "boolean"
+  ],
+  "class_names": [
+    "democrat",
+    "republican"
+  ],
+  "positive": "democrat",
+  "nodes": {
+    "0": {
+      "id": 0,
+      "type": "internal",
+      "feature_name": "physicianFeeFreeze",
+      "feature_index": 3,
+      "threshold": 0.5,
+      "id_left": 1,
+      "id_right": 2
+    },
+    "1": {
+      "id": 1,
+      "type": "internal",
+      "feature_name": "adoptionBudgetRes",
+      "feature_index": 2,
+      "threshold": 0.5,
+      "id_left": 23,
+      "id_right": 24
+    },
+    "23": {
+      "id": 23,
+      "type": "internal",
+      "feature_name": "religiousGroupsSchools",
+      "feature_index": 5,
+      "threshold": 0.5,
+      "id_left": 25,
+      "id_right": 26
+    },
+    "25": {
+      "id": 25,
+      "type": "internal",
+      "feature_name": "dutyFreeExports",
+      "feature_index": 14,
+      "threshold": 0.5,
+      "id_left": 27,
+      "id_right": 28
+    },
+    "27": {
+      "id": 27,
+      "type": "leaf",
+      "class": "republican"
+    },
+    "28": {
+      "id": 28,
+      "type": "leaf",
+      "class": "democrat"
+    },
+    "26": {
+      "id": 26,
+      "type": "leaf",
+      "class": "democrat"
+    },
+    "24": {
+      "id": 24,
+      "type": "leaf",
+      "class": "democrat"
+    },
+    "2": {
+      "id": 2,
+      "type": "internal",
+      "feature_name": "synFuelsCutback",
+      "feature_index": 10,
+      "threshold": 0.5,
+      "id_left": 3,
+      "id_right": 4
+    },
+    "3": {
+      "id": 3,
+      "type": "leaf",
+      "class": "republican"
+    },
+    "4": {
+      "id": 4,
+      "type": "internal",
+      "feature_name": "supportsMxMissile",
+      "feature_index": 8,
+      "threshold": 0.5,
+      "id_left": 5,
+      "id_right": 6
+    },
+    "5": {
+      "id": 5,
+      "type": "internal",
+      "feature_name": "adoptionBudgetRes",
+      "feature_index": 2,
+      "threshold": 0.5,
+      "id_left": 7,
+      "id_right": 8
+    },
+    "7": {
+      "id": 7,
+      "type": "internal",
+      "feature_name": "expAdminSouthAfrica",
+      "feature_index": 15,
+      "threshold": 0.5,
+      "id_left": 11,
+      "id_right": 12
+    },
+    "11": {
+      "id": 11,
+      "type": "internal",
+      "feature_name": "superfundRightSue",
+      "feature_index": 12,
+      "threshold": 0.5,
+      "id_left": 13,
+      "id_right": 14
+    },
+    "13": {
+      "id": 13,
+      "type": "leaf",
+      "class": "democrat"
+    },
+    "14": {
+      "id": 14,
+      "type": "internal",
+      "feature_name": "waterCostSharing",
+      "feature_index": 1,
+      "threshold": 0.5,
+      "id_left": 15,
+      "id_right": 16
+    },
+    "15": {
+      "id": 15,
+      "type": "internal",
+      "feature_name": "handicappedInfants",
+      "feature_index": 0,
+      "threshold": 0.5,
+      "id_left": 17,
+      "id_right": 18
+    },
+    "17": {
+      "id": 17,
+      "type": "leaf",
+      "class": "democrat"
+    },
+    "18": {
+      "id": 18,
+      "type": "leaf",
+      "class": "republican"
+    },
+    "16": {
+      "id": 16,
+      "type": "leaf",
+      "class": "republican"
+    },
+    "12": {
+      "id": 12,
+      "type": "leaf",
+      "class": "republican"
+    },
+    "8": {
+      "id": 8,
+      "type": "internal",
+      "feature_name": "antiSatelliteTestBan",
+      "feature_index": 6,
+      "threshold": 0.5,
+      "id_left": 9,
+      "id_right": 10
+    },
+    "9": {
+      "id": 9,
+      "type": "leaf",
+      "class": "democrat"
+    },
+    "10": {
+      "id": 10,
+      "type": "leaf",
+      "class": "republican"
+    },
+    "6": {
+      "id": 6,
+      "type": "internal",
+      "feature_name": "handicappedInfants",
+      "feature_index": 0,
+      "threshold": 0.5,
+      "id_left": 19,
+      "id_right": 20
+    },
+    "19": {
+      "id": 19,
+      "type": "leaf",
+      "class": "democrat"
+    },
+    "20": {
+      "id": 20,
+      "type": "internal",
+      "feature_name": "adoptionBudgetRes",
+      "feature_index": 2,
+      "threshold": 0.5,
+      "id_left": 21,
+      "id_right": 22
+    },
+    "21": {
+      "id": 21,
+      "type": "leaf",
+      "class": "democrat"
+    },
+    "22": {
+      "id": 22,
+      "type": "leaf",
+      "class": "republican"
+    }
+  }
+}

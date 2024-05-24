@@ -1,0 +1,24 @@
+load congressional_dt.json 
+show classes
+show features
+# trying to understand a particular instance
+democrat(0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0)
+republican(0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0)
+# perhaps the latter part of the instance explains the classification?
+SR([0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0], [?, ?, ?, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0])
+# Let's keep going...
+SR([0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0], [?, ?, ?, ?, ?, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0])
+# testing different hypotheses
+exists congressman, congressman.supportsImmigration = false and democrat(congressman)
+exists congressman, congressman.supportsImmigration = false and republican(congressman)
+# feature relevancy
+relevant supportsImmigration
+# so that's not the answer!
+# testing a new hypothesis
+exists c_man, c_man.physicianFeeFreeze = true and c_man.synFuelsCutback = false and c_man.supportsMxMissile = true and republican(c_man)
+exists c_man, c_man.physicianFeeFreeze = true and c_man.synFuelsCutback = false and c_man.supportsMxMissile = true and democrat(c_man)
+# more feature relevancy tests
+relevant crime
+relevant physicianFeeFreeze
+quit
+
